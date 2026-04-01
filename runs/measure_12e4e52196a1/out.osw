@@ -1,0 +1,371 @@
+{
+   "completed_at" : "20260401T144821Z",
+   "completed_status" : "Success",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_12e4e52196a1/generated_files",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "4FA427B4",
+   "measure_paths" : 
+   [
+      "/runs/measure_12e4e52196a1/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_12e4e52196a1/in.osm",
+   "started_at" : "20260401T144813Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "bar_division_method" : "Multiple Space Types - Individual Stories Sliced",
+            "bar_width" : "0",
+            "bldg_type_a" : "SuperMarket",
+            "building_rotation" : "0",
+            "climate_zone" : "ASHRAE 169-2013-4A",
+            "floor_height" : "20.0",
+            "ns_to_ew_ratio" : "0",
+            "num_stories_above_grade" : "1.0",
+            "num_stories_below_grade" : "0",
+            "story_multiplier" : "Basements Ground Mid Top",
+            "template" : "90.1-2019",
+            "total_bldg_floor_area" : "45000.0",
+            "use_upstream_args" : "false",
+            "wwr" : "0.15"
+         },
+         "measure_dir_name" : "create_bar_from_building_type_ratios",
+         "result" : 
+         {
+            "completed_at" : "20260401T144821Z",
+            "measure_class_name" : "CreateBarFromBuildingTypeRatios",
+            "measure_display_name" : "Create Bar From Building Type Ratios",
+            "measure_name" : "create_bar_from_building_type_ratios",
+            "measure_taxonomy" : "Envelope.Form",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "6e3a14f8-c3c7-4e03-bc51-bef8a52e1a05",
+            "measure_version_id" : "be835e4e-e1a9-44a5-831b-54b5f1d4b21e",
+            "measure_version_modified" : "20250723T230021Z",
+            "measure_xml_checksum" : "2AF3A68E",
+            "started_at" : "20260401T144820Z",
+            "stderr" : "",
+            "stdout" : "",
+            "step_errors" : [],
+            "step_files" : [],
+            "step_info" : 
+            [
+               "The building started with 0 spaces.",
+               "Creating bar based on space ratios from SuperMarket for building form defaults.",
+               "0.0 value for aspect ratio will be replaced with smart default for SuperMarket of 1.5.",
+               "0.0 value for minimum perimeter multiplier will be replaced with smart default for SuperMarket of 1.0.",
+               "The building started with 0 spaces.",
+               "Creating Space Types for SuperMarket.",
+               "Using OpenStudio Standards version 0.8.5 with template 90.1-2019.",
+               "Loading OpenStudio Standards data for",
+               "Loading OpenStudio Standards data for 90.1-2019",
+               "Making bar with length of 260 ft and width of 173 ft",
+               "Intersection of 'Surface 165' with 'Surface 173' results in (Surface 165), (Surface 173),",
+               "Intersection of 'Surface 166' with 'Surface 182' results in (Surface 166), (Surface 182),",
+               "Intersection of 'Surface 148' with 'Surface 164' results in (Surface 148), (Surface 164),",
+               "Intersection of 'Surface 179' with 'Surface 171' results in (Surface 179), (Surface 171),",
+               "Intersection of 'Surface 172' with 'Surface 188' results in (Surface 172), (Surface 188),",
+               "Intersection of 'Surface 154' with 'Surface 170' results in (Surface 154), (Surface 170),",
+               "Intersection of 'Surface 178' with 'Surface 194' results in (Surface 178), (Surface 194),",
+               "Intersection of 'Surface 160' with 'Surface 176' results in (Surface 160), (Surface 176),",
+               "Intersection of 'Surface 111' with 'Surface 119' results in (Surface 111), (Surface 119),",
+               "Intersection of 'Surface 112' with 'Surface 128' results in (Surface 112), (Surface 128),",
+               "Intersection of 'Surface 94' with 'Surface 110' results in (Surface 94), (Surface 110),",
+               "Intersection of 'Surface 125' with 'Surface 117' results in (Surface 125), (Surface 117),",
+               "Intersection of 'Surface 118' with 'Surface 134' results in (Surface 118), (Surface 134),",
+               "Intersection of 'Surface 100' with 'Surface 116' results in (Surface 100), (Surface 116),",
+               "Intersection of 'Surface 124' with 'Surface 140' results in (Surface 124), (Surface 140),",
+               "Intersection of 'Surface 106' with 'Surface 122' results in (Surface 106), (Surface 122),",
+               "Intersection of 'Surface 183' with 'Surface 191' results in (Surface 183), (Surface 191),",
+               "Intersection of 'Surface 184' with 'Surface 200' results in (Surface 184), (Surface 200),",
+               "Intersection of 'Surface 197' with 'Surface 189' results in (Surface 197), (Surface 189),",
+               "Intersection of 'Surface 190' with 'Surface 206' results in (Surface 190), (Surface 206),",
+               "Intersection of 'Surface 196' with 'Surface 212' results in (Surface 196), (Surface 212),",
+               "Intersection of 'Surface 75' with 'Surface 83' results in (Surface 75), (Surface 83),",
+               "Intersection of 'Surface 92' with 'Surface 76' results in (Surface 92), (Surface 76),",
+               "Intersection of 'Surface 58' with 'Surface 74' results in (Surface 58), (Surface 74),",
+               "Intersection of 'Surface 89' with 'Surface 81' results in (Surface 89), (Surface 81),",
+               "Intersection of 'Surface 98' with 'Surface 82' results in (Surface 98), (Surface 82),",
+               "Intersection of 'Surface 64' with 'Surface 80' results in (Surface 64), (Surface 80),",
+               "Intersection of 'Surface 104' with 'Surface 88' results in (Surface 104), (Surface 88),",
+               "Intersection of 'Surface 70' with 'Surface 86' results in (Surface 70), (Surface 86),",
+               "Intersection of 'Surface 201' with 'Surface 209' results in (Surface 201), (Surface 209),",
+               "Intersection of 'Surface 202' with 'Surface 218' results in (Surface 202), (Surface 218),",
+               "Intersection of 'Surface 215' with 'Surface 207' results in (Surface 215), (Surface 207),",
+               "Intersection of 'Surface 208' with 'Surface 224' results in (Surface 208), (Surface 224),",
+               "Intersection of 'Surface 214' with 'Surface 230' results in (Surface 214), (Surface 230),",
+               "Intersection of 'Surface 129' with 'Surface 137' results in (Surface 129), (Surface 137),",
+               "Intersection of 'Surface 130' with 'Surface 146' results in (Surface 130), (Surface 146),",
+               "Intersection of 'Surface 143' with 'Surface 135' results in (Surface 143), (Surface 135),",
+               "Intersection of 'Surface 136' with 'Surface 152' results in (Surface 136), (Surface 152),",
+               "Intersection of 'Surface 142' with 'Surface 158' results in (Surface 142), (Surface 158),",
+               "Intersection of 'Surface 93' with 'Surface 101' results in (Surface 93), (Surface 101),",
+               "Intersection of 'Surface 107' with 'Surface 99' results in (Surface 107), (Surface 99),",
+               "Intersection of 'Surface 39' with 'Surface 47' results in (Surface 39), (Surface 47),",
+               "Intersection of 'Surface 38' with 'Surface 22' results in (Surface 38), (Surface 22),",
+               "Intersection of 'Surface 56' with 'Surface 40' results in (Surface 56), (Surface 40),",
+               "Intersection of 'Surface 53' with 'Surface 45' results in (Surface 53), (Surface 45),",
+               "Intersection of 'Surface 44' with 'Surface 28' results in (Surface 44), (Surface 28),",
+               "Intersection of 'Surface 62' with 'Surface 46' results in (Surface 62), (Surface 46),",
+               "Intersection of 'Surface 50' with 'Surface 34' results in (Surface 50), (Surface 34),",
+               "Intersection of 'Surface 68' with 'Surface 52' results in (Surface 68), (Surface 52),",
+               "Intersection of 'Surface 236' with 'Surface 220' results in (Surface 236), (Surface 220),",
+               "Intersection of 'Surface 219' with 'Surface 227' results in (Surface 219), (Surface 227),",
+               "Intersection of 'Surface 237' with 'Surface 245' results in (Surface 237), (Surface 245),",
+               "Intersection of 'Surface 242' with 'Surface 226' results in (Surface 242), (Surface 226),",
+               "Intersection of 'Surface 233' with 'Surface 225' results in (Surface 233), (Surface 225),",
+               "Intersection of 'Surface 251' with 'Surface 243' results in (Surface 251), (Surface 243),",
+               "Intersection of 'Surface 248' with 'Surface 232' results in (Surface 248), (Surface 232),",
+               "Intersection of 'Surface 147' with 'Surface 155' results in (Surface 147), (Surface 155),",
+               "Intersection of 'Surface 161' with 'Surface 153' results in (Surface 161), (Surface 153),",
+               "Intersection of 'Surface 4' with 'Surface 20' results in (Surface 4), (Surface 20),",
+               "Intersection of 'Surface 21' with 'Surface 29' results in (Surface 21), (Surface 29),",
+               "Intersection of 'Surface 3' with 'Surface 11' results in (Surface 3), (Surface 11),",
+               "Intersection of 'Surface 10' with 'Surface 26' results in (Surface 10), (Surface 26),",
+               "Intersection of 'Surface 35' with 'Surface 27' results in (Surface 35), (Surface 27),",
+               "Intersection of 'Surface 17' with 'Surface 9' results in (Surface 17), (Surface 9),",
+               "Intersection of 'Surface 16' with 'Surface 32' results in (Surface 16), (Surface 32),",
+               "Intersection of 'Surface 57' with 'Surface 65' results in (Surface 57), (Surface 65),",
+               "Intersection of 'Surface 71' with 'Surface 63' results in (Surface 71), (Surface 63),",
+               "Intersecting and matching surfaces in model, this will create additional geometry.",
+               "Created bar envelope with floor area of 45,000 ft^2. Total building area is 45,000 ft^2.",
+               "wall_area_ip: 17320.508075688776 ft^2",
+               "ns_wall_area_ip: 10392.304845413262 ft^2",
+               "ew_wall_area_ip: 6928.203230275513 ft^2",
+               "floor_area_to_perim_ratio: 15.83787258440982",
+               "bar_width: 173.20508075688772 ft",
+               "The building finished with 42 spaces."
+            ],
+            "step_result" : "Success",
+            "step_values" : 
+            [
+               {
+                  "name" : "bldg_type_a",
+                  "value" : "SuperMarket"
+               },
+               {
+                  "name" : "bldg_subtype_a",
+                  "value" : "NA"
+               },
+               {
+                  "name" : "bldg_type_a_num_units",
+                  "value" : 1
+               },
+               {
+                  "name" : "bldg_type_b",
+                  "value" : "SmallOffice"
+               },
+               {
+                  "name" : "bldg_subtype_b",
+                  "value" : "NA"
+               },
+               {
+                  "name" : "bldg_type_b_fract_bldg_area",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "bldg_type_b_num_units",
+                  "value" : 1
+               },
+               {
+                  "name" : "bldg_type_c",
+                  "value" : "SmallOffice"
+               },
+               {
+                  "name" : "bldg_subtype_c",
+                  "value" : "NA"
+               },
+               {
+                  "name" : "bldg_type_c_fract_bldg_area",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "bldg_type_c_num_units",
+                  "value" : 1
+               },
+               {
+                  "name" : "bldg_type_d",
+                  "value" : "SmallOffice"
+               },
+               {
+                  "name" : "bldg_subtype_d",
+                  "value" : "NA"
+               },
+               {
+                  "name" : "bldg_type_d_fract_bldg_area",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "bldg_type_d_num_units",
+                  "value" : 1
+               },
+               {
+                  "name" : "single_floor_area",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "total_bldg_floor_area",
+                  "value" : 45000.0
+               },
+               {
+                  "name" : "floor_height",
+                  "value" : 20.0
+               },
+               {
+                  "name" : "custom_height_bar",
+                  "value" : true
+               },
+               {
+                  "name" : "num_stories_above_grade",
+                  "value" : 1.0
+               },
+               {
+                  "name" : "num_stories_below_grade",
+                  "value" : 0
+               },
+               {
+                  "name" : "building_rotation",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "template",
+                  "value" : "90.1-2019"
+               },
+               {
+                  "name" : "ns_to_ew_ratio",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "perim_mult",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "bar_width",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "bar_sep_dist_mult",
+                  "value" : 10.0
+               },
+               {
+                  "name" : "wwr",
+                  "value" : 0.14999999999999999
+               },
+               {
+                  "name" : "party_wall_fraction",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "party_wall_stories_north",
+                  "value" : 0
+               },
+               {
+                  "name" : "party_wall_stories_south",
+                  "value" : 0
+               },
+               {
+                  "name" : "party_wall_stories_east",
+                  "value" : 0
+               },
+               {
+                  "name" : "party_wall_stories_west",
+                  "value" : 0
+               },
+               {
+                  "name" : "neighbor_height_method",
+                  "value" : "Absolute"
+               },
+               {
+                  "name" : "building_height_relative_to_neighbors",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "neighbor_height_north",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "neighbor_height_south",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "neighbor_height_east",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "neighbor_height_west",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "neighbor_offset_north",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "neighbor_offset_south",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "neighbor_offset_east",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "neighbor_offset_west",
+                  "value" : 0.0
+               },
+               {
+                  "name" : "bottom_story_ground_exposed_floor",
+                  "value" : true
+               },
+               {
+                  "name" : "top_story_exterior_exposed_roof",
+                  "value" : true
+               },
+               {
+                  "name" : "story_multiplier",
+                  "value" : "Basements Ground Mid Top"
+               },
+               {
+                  "name" : "make_mid_story_surfaces_adiabatic",
+                  "value" : false
+               },
+               {
+                  "name" : "bar_division_method",
+                  "value" : "Multiple Space Types - Individual Stories Sliced"
+               },
+               {
+                  "name" : "double_loaded_corridor",
+                  "value" : "Primary Space Type"
+               },
+               {
+                  "name" : "space_type_sort_logic",
+                  "value" : "Building Type > Size"
+               },
+               {
+                  "name" : "use_upstream_args",
+                  "value" : false
+               },
+               {
+                  "name" : "climate_zone",
+                  "value" : "ASHRAE 169-2013-4A"
+               }
+            ],
+            "step_warnings" : 
+            [
+               "[openstudio.standards.Geometry.Create] Floor area of SuperMarket Office results in a bar with smaller than target minimum width.",
+               "[openstudio.standards.Geometry.Create] Floor area of SuperMarket Vestibule results in a bar with smaller than target minimum width.",
+               "[openstudio.standards.Geometry.Create] Floor area of SuperMarket Dining results in a bar with smaller than target minimum width.",
+               "[openstudio.standards.Geometry.Create] Floor area of SuperMarket Meeting results in a bar with smaller than target minimum width."
+            ]
+         }
+      }
+   ],
+   "updated_at" : "20260401T144822Z"
+}

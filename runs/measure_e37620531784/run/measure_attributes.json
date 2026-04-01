@@ -1,0 +1,12 @@
+{
+  "ChangeBuildingLocation" : 
+  {
+    "applicable" : true,
+    "climate_zone" : "Lookup From Stat File",
+    "epw_gsub" : "Do Nothing",
+    "reported_climate_zone" : "5A",
+    "set_year" : 0,
+    "use_upstream_args" : true,
+    "weather_file_name" : "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests/USA_MA_Boston-Logan.Intl.AP.725090_TMY3.epw"
+  }
+}

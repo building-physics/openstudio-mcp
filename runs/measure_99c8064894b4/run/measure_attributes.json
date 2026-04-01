@@ -1,0 +1,7 @@
+{
+  "ApplySupermarketRefrigeration" : 
+  {
+    "applicable" : true,
+    "json_path" : "/runs/exports/SuperMarket_advanced_refrigeration_system.json"
+  }
+}

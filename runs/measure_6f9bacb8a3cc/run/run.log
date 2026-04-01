@@ -1,0 +1,13 @@
+[23:09:15.973471 WARN] [openstudio.workflow.OSWorkflow] No valid weather file defined in either the osm or osw.
+[23:09:22.764579 ERROR] [openstudio.measure.OSRunner] SWIG director method error. NoMethodError: undefined method `setRatedEffectiveTotalHeatRejectionRate' for #<OpenStudio::Model::RefrigerationCondenserAirCooled:0x00007aa7be65ebf0 @__swigtype__="_p_openstudio__model__RefrigerationCondenserAirCooled">
+
+Traceback (most recent call last):
+/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:100:in `block in run'
+/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:97:in `each'
+/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:97:in `run'
+[23:09:22.770249 ERROR] [openstudio.workflow.OSWorkflow] Found error in state 'OpenStudioMeasures' with message: 'Runner error: Measure '/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb' reported an error with [SWIG director method error. NoMethodError: undefined method `setRatedEffectiveTotalHeatRejectionRate' for #<OpenStudio::Model::RefrigerationCondenserAirCooled:0x00007aa7be65ebf0 @__swigtype__="_p_openstudio__model__RefrigerationCondenserAirCooled">
+
+Traceback (most recent call last):
+/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:100:in `block in run'
+/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:97:in `each'
+/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:97:in `run']'

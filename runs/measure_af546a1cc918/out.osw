@@ -1,0 +1,203 @@
+{
+   "completed_at" : "20260401T144718Z",
+   "completed_status" : "Fail",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_af546a1cc918/generated_files",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "D37E1EB2",
+   "measure_paths" : 
+   [
+      "/runs/measure_af546a1cc918/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_af546a1cc918/in.osm",
+   "started_at" : "20260401T144711Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "add_constructions" : "true",
+            "add_exterior_lights" : "true",
+            "add_hvac" : "true",
+            "add_space_type_loads" : "true",
+            "add_swh" : "true",
+            "add_thermostat" : "true",
+            "clg_src" : "Electricity",
+            "climate_zone" : "Lookup From Model",
+            "htg_src" : "NaturalGas",
+            "remove_objects" : "true",
+            "swh_src" : "Inferred",
+            "system_type" : "Inferred",
+            "template" : "90.1-2019"
+         },
+         "measure_dir_name" : "create_typical_building_from_model",
+         "result" : 
+         {
+            "completed_at" : "20260401T144717Z",
+            "measure_class_name" : "CreateTypicalBuildingFromModel",
+            "measure_display_name" : "Create Typical Building from Model",
+            "measure_name" : "create_typical_building_from_model",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "339a2e3a-273c-4494-bb50-bfe586a0647c",
+            "measure_version_id" : "bd1d8944-8296-4ba2-9fd2-3c407a3cbc94",
+            "measure_version_modified" : "20250725T185559Z",
+            "measure_xml_checksum" : "EE13F09F",
+            "started_at" : "20260401T144717Z",
+            "stderr" : "",
+            "stdout" : "[openstudio.standards.CreateTypical] <Error> Could not determine climate zone from measure arguments or model.\n[openstudio.measure.OSRunner] <Error> [openstudio.standards.CreateTypical] Could not determine climate zone from measure arguments or model.\n",
+            "step_errors" : 
+            [
+               "[openstudio.standards.CreateTypical] Could not determine climate zone from measure arguments or model."
+            ],
+            "step_files" : [],
+            "step_info" : 
+            [
+               "The building started with 160 objects.",
+               "Using OpenStudio Standards version 0.8.5 with template 90.1-2019.",
+               "Loading OpenStudio Standards data for",
+               "Loading OpenStudio Standards data for 90.1-2019",
+               "Using climate zone  from model"
+            ],
+            "step_result" : "Fail",
+            "step_values" : 
+            [
+               {
+                  "name" : "template",
+                  "value" : "90.1-2019"
+               },
+               {
+                  "name" : "system_type",
+                  "value" : "Inferred"
+               },
+               {
+                  "name" : "hvac_delivery_type",
+                  "value" : "Forced Air"
+               },
+               {
+                  "name" : "htg_src",
+                  "value" : "NaturalGas"
+               },
+               {
+                  "name" : "clg_src",
+                  "value" : "Electricity"
+               },
+               {
+                  "name" : "swh_src",
+                  "value" : "Inferred"
+               },
+               {
+                  "name" : "kitchen_makeup",
+                  "value" : "Adjacent"
+               },
+               {
+                  "name" : "exterior_lighting_zone",
+                  "value" : "3 - All Other Areas"
+               },
+               {
+                  "name" : "add_constructions",
+                  "value" : true
+               },
+               {
+                  "name" : "wall_construction_type",
+                  "value" : "Inferred"
+               },
+               {
+                  "name" : "add_space_type_loads",
+                  "value" : true
+               },
+               {
+                  "name" : "add_elevators",
+                  "value" : true
+               },
+               {
+                  "name" : "add_internal_mass",
+                  "value" : true
+               },
+               {
+                  "name" : "add_exterior_lights",
+                  "value" : true
+               },
+               {
+                  "name" : "onsite_parking_fraction",
+                  "value" : 1.0
+               },
+               {
+                  "name" : "add_exhaust",
+                  "value" : true
+               },
+               {
+                  "name" : "add_swh",
+                  "value" : true
+               },
+               {
+                  "name" : "add_thermostat",
+                  "value" : true
+               },
+               {
+                  "name" : "add_hvac",
+                  "value" : true
+               },
+               {
+                  "name" : "add_refrigeration",
+                  "value" : true
+               },
+               {
+                  "name" : "refrigeration_template",
+                  "value" : "new"
+               },
+               {
+                  "name" : "modify_wkdy_op_hrs",
+                  "value" : false
+               },
+               {
+                  "name" : "wkdy_op_hrs_start_time",
+                  "value" : 8.0
+               },
+               {
+                  "name" : "wkdy_op_hrs_duration",
+                  "value" : 8.0
+               },
+               {
+                  "name" : "modify_wknd_op_hrs",
+                  "value" : false
+               },
+               {
+                  "name" : "wknd_op_hrs_start_time",
+                  "value" : 8.0
+               },
+               {
+                  "name" : "wknd_op_hrs_duration",
+                  "value" : 8.0
+               },
+               {
+                  "name" : "unmet_hours_tolerance",
+                  "value" : 1.0
+               },
+               {
+                  "name" : "remove_objects",
+                  "value" : true
+               },
+               {
+                  "name" : "use_upstream_args",
+                  "value" : true
+               },
+               {
+                  "name" : "climate_zone",
+                  "value" : "Lookup From Model"
+               }
+            ],
+            "step_warnings" : []
+         }
+      }
+   ],
+   "updated_at" : "20260401T144718Z"
+}

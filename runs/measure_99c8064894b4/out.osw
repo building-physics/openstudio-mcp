@@ -1,0 +1,71 @@
+{
+   "completed_at" : "20260401T151919Z",
+   "completed_status" : "Success",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_99c8064894b4/generated_files",
+      "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "D6D7202B",
+   "measure_paths" : 
+   [
+      "/runs/measure_99c8064894b4/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_99c8064894b4/in.osm",
+   "started_at" : "20260401T151908Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "json_path" : "/runs/exports/SuperMarket_advanced_refrigeration_system.json"
+         },
+         "measure_dir_name" : "apply_supermarket_refrigeration",
+         "result" : 
+         {
+            "completed_at" : "20260401T151915Z",
+            "measure_class_name" : "ApplySupermarketRefrigeration",
+            "measure_display_name" : "Apply Supermarket Refrigeration",
+            "measure_name" : "apply_supermarket_refrigeration",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "dff5cadd-77ee-4623-8cb3-d96f21c2fd9f",
+            "measure_version_id" : "498ba634-07d2-49ee-a7ba-3774e5cf280e",
+            "measure_version_modified" : "20260401T151830Z",
+            "measure_xml_checksum" : "359A34E2",
+            "started_at" : "20260401T151913Z",
+            "stderr" : "",
+            "stdout" : "",
+            "step_errors" : [],
+            "step_files" : [],
+            "step_final_condition" : "Applied advanced supermarket refrigeration: 6 MT racks, 3 LT racks, 14 display cases, 10 walk-ins.",
+            "step_info" : 
+            [
+               "Created 9 curves",
+               "Created 135 compressors",
+               "Created 9 condensers",
+               "Created 6 MT racks, 3 LT racks",
+               "Created 14 display cases"
+            ],
+            "step_initial_condition" : "Loading 201 refrigeration objects",
+            "step_result" : "Success",
+            "step_values" : 
+            [
+               {
+                  "name" : "json_path",
+                  "value" : "/runs/exports/SuperMarket_advanced_refrigeration_system.json"
+               }
+            ],
+            "step_warnings" : []
+         }
+      }
+   ],
+   "updated_at" : "20260401T151919Z"
+}

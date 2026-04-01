@@ -1,0 +1,74 @@
+[14:47:25.355980 WARN] [openstudio.workflow.OSWorkflow] No valid weather file defined in either the osm or osw.
+[14:47:31.905813 WARN] [openstudio.standards.Prototypes] No mapping found for standards building type 'SuperMarket' and standards space type 'WholeBuilding'
+[14:47:31.909716 WARN] [openstudio.standards.SpaceType] No space type properties found for space type Baseline Model Space Type with standards space type '' in building SuperMarket
+[14:47:31.921359 WARN] [openstudio.standards.SpaceType] Space type properties lookup failed: {"template"=>"90.1-2019", "building_type"=>"SuperMarket", "space_type"=>"WholeBuilding"}.
+[14:47:31.922084 WARN] [openstudio.standards.CreateTypical] Could not add loads for Baseline Model Space Type. Not expected for 90.1-2019
+[14:47:32.040031 WARN] [openstudio.standards.Model] Find object search criteria returned 2 results, the first one will be returned. Called from :/ruby/3.2.0/gems/openstudio-standards-0.8.5/lib/openstudio-standards/standards/Standards.Model.rb:3079:in `model_add_construction'. 
+ Search criteria: 
+ {"name"=>"U 0.36 SHGC 0.36 Simple Glazing"}, capacity =  
+  All results: 
+ {"name"=>"U 0.36 SHGC 0.36 Simple Glazing", "intended_surface_type"=>"ExteriorWindow", "standards_construction_type"=>"Metal framing (all other)", "insulation_layer"=>nil, "skylight_framing"=>nil, "materials"=>["U 0.36 SHGC 0.36 Simple Glazing"]}
+{"name"=>"U 0.36 SHGC 0.36 Simple Glazing", "intended_surface_type"=>"ExteriorWindow", "standards_construction_type"=>nil, "insulation_layer"=>nil, "skylight_framing"=>nil, "materials"=>["U 0.36 SHGC 0.36 Simple Glazing"]}
+[14:47:32.041647 WARN] [openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.36 SHGC 0.36 Simple Glazing, a default value of 0.81 is used.
+[14:47:32.048123 WARN] [openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.45 SHGC 0.33 Simple Glazing, a default value of 0.81 is used.
+[14:47:32.064211 WARN] [openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.63 SHGC 0.33 Simple Glazing, a default value of 0.81 is used.
+[14:47:32.077230 WARN] [openstudio.standards.Model] Find object search criteria returned 2 results, the first one will be returned. Called from :/ruby/3.2.0/gems/openstudio-standards-0.8.5/lib/openstudio-standards/standards/Standards.Model.rb:3079:in `model_add_construction'. 
+ Search criteria: 
+ {"name"=>"U 0.5 SHGC 0.4 Simple Glazing"}, capacity =  
+  All results: 
+ {"name"=>"U 0.5 SHGC 0.4 Simple Glazing", "intended_surface_type"=>"Skylight", "standards_construction_type"=>nil, "insulation_layer"=>nil, "skylight_framing"=>nil, "materials"=>["U 0.5 SHGC 0.4 Simple Glazing"]}
+{"name"=>"U 0.5 SHGC 0.4 Simple Glazing", "intended_surface_type"=>"Skylight", "standards_construction_type"=>nil, "insulation_layer"=>nil, "skylight_framing"=>nil, "materials"=>["U 0.5 SHGC 0.4 Simple Glazing"]}
+[14:47:32.078306 WARN] [openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.5 SHGC 0.4 Simple Glazing, a default value of 0.81 is used.
+[14:47:32.093670 WARN] [openstudio.weather.Model] Could not locate the .epw file, cannot get ground temperatures from the associated .stat file.
+[14:47:32.094143 WARN] [openstudio.weather.Model] Could not locate the .stat file. Looking up default values based on the climate zone.
+[14:47:32.192077 WARN] [openstudio.standards.Schedules] Unable to determine building hours of operation schedule. Treating the building as if there is no HVAC system schedule.
+[14:47:32.192677 WARN] [openstudio.standards.Infiltration.nist_infiltration] Unable to determine the building HVAC schedule. Treating the building as if there is no HVAC system with outdoor air. This may be appropriate for design sizing, particularly heating design sizing. If this is not the case, input a schedule argument, or assign one to an air loop in the model.
+[14:47:33.814842 WARN] [openstudio.standards.SpaceType] No space type properties found for space type Baseline Model Space Type with standards space type 'WholeBuilding' in building SuperMarket
+[14:47:34.299660 ERROR] [openstudio.prototype.Model] The building does not appear to have any conditioned zones. Make sure zones have thermostat with appropriate heating and cooling setpoint schedules.
+[14:47:34.344054 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.344596 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.356030 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.356598 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.358185 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.358786 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.359926 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.360362 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.360744 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.361007 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.361389 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.361640 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.362508 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.362932 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.363187 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.363780 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.364032 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.364630 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.364859 ERROR] [openstudio.model.YearDescription] 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.
+[14:47:34.420589 ERROR] [openstudio.standards.Model] Model has not been assigned a weather file.
+[14:47:34.427005 WARN] [openstudio.measure.OSRunner] [openstudio.standards.Prototypes] No mapping found for standards building type 'SuperMarket' and standards space type 'WholeBuilding'
+[14:47:34.427590 WARN] [openstudio.measure.OSRunner] [openstudio.standards.SpaceType] No space type properties found for space type Baseline Model Space Type with standards space type '' in building SuperMarket
+[14:47:34.428200 WARN] [openstudio.measure.OSRunner] [openstudio.standards.SpaceType] Space type properties lookup failed: {"template"=>"90.1-2019", "building_type"=>"SuperMarket", "space_type"=>"WholeBuilding"}.
+[14:47:34.428627 WARN] [openstudio.measure.OSRunner] [openstudio.standards.CreateTypical] Could not add loads for Baseline Model Space Type. Not expected for 90.1-2019
+[14:47:34.429585 WARN] [openstudio.measure.OSRunner] [openstudio.standards.Model] Find object search criteria returned 2 results, the first one will be returned. Called from :/ruby/3.2.0/gems/openstudio-standards-0.8.5/lib/openstudio-standards/standards/Standards.Model.rb:3079:in `model_add_construction'. 
+ Search criteria: 
+ {"name"=>"U 0.36 SHGC 0.36 Simple Glazing"}, capacity =  
+  All results: 
+ {"name"=>"U 0.36 SHGC 0.36 Simple Glazing", "intended_surface_type"=>"ExteriorWindow", "standards_construction_type"=>"Metal framing (all other)", "insulation_layer"=>nil, "skylight_framing"=>nil, "materials"=>
+[14:47:34.430109 WARN] [openstudio.measure.OSRunner] [openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.36 SHGC 0.36 Simple Glazing, a default value of 0.81 is used.
+[14:47:34.430611 WARN] [openstudio.measure.OSRunner] [openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.45 SHGC 0.33 Simple Glazing, a default value of 0.81 is used.
+[14:47:34.431391 WARN] [openstudio.measure.OSRunner] [openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.63 SHGC 0.33 Simple Glazing, a default value of 0.81 is used.
+[14:47:34.432123 WARN] [openstudio.measure.OSRunner] [openstudio.standards.Model] Find object search criteria returned 2 results, the first one will be returned. Called from :/ruby/3.2.0/gems/openstudio-standards-0.8.5/lib/openstudio-standards/standards/Standards.Model.rb:3079:in `model_add_construction'. 
+ Search criteria: 
+ {"name"=>"U 0.5 SHGC 0.4 Simple Glazing"}, capacity =  
+  All results: 
+ {"name"=>"U 0.5 SHGC 0.4 Simple Glazing", "intended_surface_type"=>"Skylight", "standards_construction_type"=>nil, "insulation_layer"=>nil, "skylight_framing"=>nil, "materials"=>
+[14:47:34.432656 WARN] [openstudio.measure.OSRunner] [openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.5 SHGC 0.4 Simple Glazing, a default value of 0.81 is used.
+[14:47:34.433271 WARN] [openstudio.measure.OSRunner] [openstudio.weather.Model] Could not locate the .epw file, cannot get ground temperatures from the associated .stat file.
+[14:47:34.433763 WARN] [openstudio.measure.OSRunner] [openstudio.weather.Model] Could not locate the .stat file. Looking up default values based on the climate zone.
+[14:47:34.434337 WARN] [openstudio.measure.OSRunner] [openstudio.standards.Schedules] Unable to determine building hours of operation schedule. Treating the building as if there is no HVAC system schedule.
+[14:47:34.434836 WARN] [openstudio.measure.OSRunner] [openstudio.standards.Infiltration.nist_infiltration] Unable to determine the building HVAC schedule. Treating the building as if there is no HVAC system with outdoor air. This may be appropriate for design sizing, particularly heating design sizing. If this is not the case, input a schedule argument, or assign one to an air loop in the model.
+[14:47:34.438201 WARN] [openstudio.measure.OSRunner] [openstudio.standards.SpaceType] No space type properties found for space type Baseline Model Space Type with standards space type 'WholeBuilding' in building SuperMarket
+[14:47:34.439985 ERROR] [openstudio.measure.OSRunner] [openstudio.prototype.Model] The building does not appear to have any conditioned zones. Make sure zones have thermostat with appropriate heating and cooling setpoint schedules.
+[14:47:34.441010 ERROR] [openstudio.measure.OSRunner] [openstudio.standards.Model] Model has not been assigned a weather file.
+[14:47:34.450536 ERROR] [openstudio.workflow.OSWorkflow] Found error in state 'OpenStudioMeasures' with message: 'Measure 'create_typical_building_from_model' reported an error with [[openstudio.prototype.Model] The building does not appear to have any conditioned zones. Make sure zones have thermostat with appropriate heating and cooling setpoint schedules.
+[openstudio.standards.Model] Model has not been assigned a weather file.]'

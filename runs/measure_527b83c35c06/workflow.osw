@@ -1,0 +1,15 @@
+{
+  "seed_file": "/runs/measure_527b83c35c06/in.osm",
+  "file_paths": [
+    "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests"
+  ],
+  "measure_paths": [
+    "/runs/measure_527b83c35c06/measures"
+  ],
+  "steps": [
+    {
+      "measure_dir_name": "probe_condenser_api",
+      "arguments": {}
+    }
+  ]
+}

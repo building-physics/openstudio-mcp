@@ -1,0 +1,70 @@
+{
+   "completed_at" : "20260319T224315Z",
+   "completed_status" : "Fail",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_a8bae929498a/generated_files",
+      "/inputs",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "F44113C3",
+   "measure_paths" : 
+   [
+      "/runs/measure_a8bae929498a/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_a8bae929498a/in.osm",
+   "started_at" : "20260319T224309Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "json_path" : "/runs/SuperMarket_advanced_refrigeration_system.json"
+         },
+         "measure_dir_name" : "add_supermarket_refrigeration",
+         "result" : 
+         {
+            "completed_at" : "20260319T224315Z",
+            "measure_class_name" : "AddSupermarketRefrigeration",
+            "measure_display_name" : "Add Supermarket Refrigeration",
+            "measure_name" : "add_supermarket_refrigeration",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "e2788432-65d5-4b27-ad8b-cdd698ed6e08",
+            "measure_version_id" : "f4879e6f-fb3c-496d-8ac0-32b0b4f8d0fb",
+            "measure_version_modified" : "20260319T224224Z",
+            "measure_xml_checksum" : "359A34E2",
+            "started_at" : "20260319T224315Z",
+            "stderr" : "",
+            "stdout" : "[openstudio.measure.OSRunner] <Error> SWIG director method error. NoMethodError: undefined method `setCoefficient8xPOW2TIMESY' for #<OpenStudio::Model::CurveBicubic:0x0000749f3bdeff68 @__swigtype__=\"_p_openstudio__model__CurveBicubic\">\n\nTraceback (most recent call last):\n/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:69:in `block in run'\n/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `each'\n/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `run'\n",
+            "step_errors" : 
+            [
+               "SWIG director method error. NoMethodError: undefined method `setCoefficient8xPOW2TIMESY' for #<OpenStudio::Model::CurveBicubic:0x0000749f3bdeff68 @__swigtype__=\"_p_openstudio__model__CurveBicubic\">\n\nTraceback (most recent call last):\n/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:69:in `block in run'\n/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `each'\n/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `run'"
+            ],
+            "step_files" : [],
+            "step_info" : [],
+            "step_initial_condition" : "Loading 201 refrigeration objects from SuperMarket_advanced_refrigeration_system.json",
+            "step_result" : "Fail",
+            "step_values" : 
+            [
+               {
+                  "name" : "json_path",
+                  "value" : "/runs/SuperMarket_advanced_refrigeration_system.json"
+               }
+            ],
+            "step_warnings" : 
+            [
+               "Zone not found: MainSales",
+               "Zone not found: ActiveStorage"
+            ]
+         }
+      }
+   ],
+   "updated_at" : "20260319T224315Z"
+}

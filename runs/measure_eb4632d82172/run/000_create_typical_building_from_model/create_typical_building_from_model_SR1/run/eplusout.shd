@@ -1,0 +1,1663 @@
+Shadowing Combinations
+..Solar Distribution=FullExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=SUPERMARKET BAKERY A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET BAKERY A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET BAKERY A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET BAKERY C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET BAKERY C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET BAKERY C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET CORRIDOR A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET CORRIDOR A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR C  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR C  - STORY GROUND WALL 4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET CORRIDOR C  - STORY GROUND WALL 4 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET CORRIDOR C  - STORY GROUND WALL 4 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET CORRIDOR C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET DELI A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET DELI A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET DELI C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET DELI C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DELI C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET DINING A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET DINING A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET DINING C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET DINING C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DINING C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET DRYSTORAGE A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET DRYSTORAGE A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET DRYSTORAGE C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET DRYSTORAGE C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET DRYSTORAGE C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET ELEC/MECHROOM A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET ELEC/MECHROOM C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET ELEC/MECHROOM C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET MEETING A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET MEETING A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET MEETING C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET MEETING C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET MEETING C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET OFFICE A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET OFFICE A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET OFFICE C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET OFFICE C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET OFFICE C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET PRODUCE A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET PRODUCE A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND WALL 4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND WALL 4 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND WALL 4 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE A END_B - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B END_B - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B END_B - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B END_B - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B END_B - STORY GROUND WALL 4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET PRODUCE B END_B - STORY GROUND WALL 4 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET PRODUCE B END_B - STORY GROUND WALL 4 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B END_B - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B END_B - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE B END_B - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET PRODUCE C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET PRODUCE C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET PRODUCE C END_B - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET RESTROOM A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET RESTROOM A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET RESTROOM C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET RESTROOM C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET RESTROOM C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET SALES A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET SALES A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A END_A - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A END_A - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET SALES A END_A - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET SALES A END_A - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A END_A - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET SALES A END_A - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET SALES A END_A - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A END_A - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A END_A - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A END_A - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES A END_A - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B END_A - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B END_A - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET SALES B END_A - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET SALES B END_A - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B END_A - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B END_A - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B END_A - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B END_A - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES B END_A - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET SALES C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET SALES C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C  - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C END_A - STORY GROUND WALL 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET SALES C END_A - STORY GROUND WALL 1 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET SALES C END_A - STORY GROUND WALL 1 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C END_A - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET SALES C END_A - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET SALES C END_A - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C END_A - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C END_A - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C END_A - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C END_A - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET SALES C END_A - STORY GROUND MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE A  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE A  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE A  - STORY GROUND WALL 3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET VESTIBULE A  - STORY GROUND WALL 3 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET VESTIBULE A  - STORY GROUND WALL 3 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE A  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE A  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE A  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE B  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE B  - STORY GROUND WALL 2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE B  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE B  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE B  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE B  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE C  - STORY GROUND WALL 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE C  - STORY GROUND WALL 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SUPERMARKET VESTIBULE C  - STORY GROUND WALL 2 FIXEDWINDOW 1
+==================================
+Surface=SUPERMARKET VESTIBULE C  - STORY GROUND WALL 2 FIXEDWINDOW 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE C  - STORY GROUND WALL 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE C  - STORY GROUND WALL 4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE C  - STORY GROUND FLOOR 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SUPERMARKET VESTIBULE C  - STORY GROUND ROOFCEILING 1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0

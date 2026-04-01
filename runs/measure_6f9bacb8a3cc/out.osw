@@ -1,0 +1,69 @@
+{
+   "completed_at" : "20260319T230922Z",
+   "completed_status" : "Fail",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_6f9bacb8a3cc/generated_files",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "CA35F638",
+   "measure_paths" : 
+   [
+      "/runs/measure_6f9bacb8a3cc/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_6f9bacb8a3cc/in.osm",
+   "started_at" : "20260319T230916Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "json_path" : "/runs/SuperMarket_advanced_refrigeration_system.json"
+         },
+         "measure_dir_name" : "apply_supermarket_refrigeration",
+         "result" : 
+         {
+            "completed_at" : "20260319T230922Z",
+            "measure_class_name" : "ApplySupermarketRefrigeration",
+            "measure_display_name" : "Apply Supermarket Refrigeration",
+            "measure_name" : "apply_supermarket_refrigeration",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "dff5cadd-77ee-4623-8cb3-d96f21c2fd9f",
+            "measure_version_id" : "c2976d69-6d4f-48b7-bf4e-bc907baaac3e",
+            "measure_version_modified" : "20260319T230844Z",
+            "measure_xml_checksum" : "359A34E2",
+            "started_at" : "20260319T230922Z",
+            "stderr" : "",
+            "stdout" : "[openstudio.measure.OSRunner] <Error> SWIG director method error. NoMethodError: undefined method `setRatedEffectiveTotalHeatRejectionRate' for #<OpenStudio::Model::RefrigerationCondenserAirCooled:0x00007aa7be65ebf0 @__swigtype__=\"_p_openstudio__model__RefrigerationCondenserAirCooled\">\n\nTraceback (most recent call last):\n/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:100:in `block in run'\n/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:97:in `each'\n/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:97:in `run'\n",
+            "step_errors" : 
+            [
+               "SWIG director method error. NoMethodError: undefined method `setRatedEffectiveTotalHeatRejectionRate' for #<OpenStudio::Model::RefrigerationCondenserAirCooled:0x00007aa7be65ebf0 @__swigtype__=\"_p_openstudio__model__RefrigerationCondenserAirCooled\">\n\nTraceback (most recent call last):\n/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:100:in `block in run'\n/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:97:in `each'\n/runs/measure_6f9bacb8a3cc/measures/apply_supermarket_refrigeration/measure.rb:97:in `run'"
+            ],
+            "step_files" : [],
+            "step_info" : 
+            [
+               "Created 9 curves",
+               "Created 135 compressors"
+            ],
+            "step_initial_condition" : "Loading 201 refrigeration objects",
+            "step_result" : "Fail",
+            "step_values" : 
+            [
+               {
+                  "name" : "json_path",
+                  "value" : "/runs/SuperMarket_advanced_refrigeration_system.json"
+               }
+            ],
+            "step_warnings" : []
+         }
+      }
+   ],
+   "updated_at" : "20260319T230922Z"
+}

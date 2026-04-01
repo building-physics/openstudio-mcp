@@ -1,0 +1,12 @@
+[15:14:11.412715 ERROR] [openstudio.measure.OSRunner] SWIG director method error. NoMethodError: undefined method `setMinimumCondensingTemperature' for #<OpenStudio::Model::RefrigerationCondenserAirCooled:0x000070513d897f20 @__swigtype__="_p_openstudio__model__RefrigerationCondenserAirCooled">
+
+Traceback (most recent call last):
+/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:100:in `block in run'
+/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:96:in `each'
+/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:96:in `run'
+[15:14:11.419335 ERROR] [openstudio.workflow.OSWorkflow] Found error in state 'OpenStudioMeasures' with message: 'Runner error: Measure '/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb' reported an error with [SWIG director method error. NoMethodError: undefined method `setMinimumCondensingTemperature' for #<OpenStudio::Model::RefrigerationCondenserAirCooled:0x000070513d897f20 @__swigtype__="_p_openstudio__model__RefrigerationCondenserAirCooled">
+
+Traceback (most recent call last):
+/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:100:in `block in run'
+/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:96:in `each'
+/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:96:in `run']'

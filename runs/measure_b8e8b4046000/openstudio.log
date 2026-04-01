@@ -1,0 +1,40 @@
+[openstudio.measure.OSRunner] <Error> SWIG director method error. ArgumentError: Wrong # of arguments for overloaded method 'RefrigerationCase.new'.
+Possible C/C++ prototypes are:
+    RefrigerationCase.new(openstudio::model::Model const &model, openstudio::model::Schedule &caseDefrostSchedule)
+    RefrigerationCase.new(openstudio::model::RefrigerationCase const &other)
+    RefrigerationCase.new(openstudio::model::RefrigerationCase &&other)
+
+
+Traceback (most recent call last):
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:145:in `initialize'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:145:in `new'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:145:in `block in run'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:141:in `each'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:141:in `run'
+[openstudio.workflow.OSWorkflow] <Error> Found error in state 'OpenStudioMeasures' with message: 'Runner error: Measure '/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb' reported an error with [SWIG director method error. ArgumentError: Wrong # of arguments for overloaded method 'RefrigerationCase.new'.
+Possible C/C++ prototypes are:
+    RefrigerationCase.new(openstudio::model::Model const &model, openstudio::model::Schedule &caseDefrostSchedule)
+    RefrigerationCase.new(openstudio::model::RefrigerationCase const &other)
+    RefrigerationCase.new(openstudio::model::RefrigerationCase &&other)
+
+
+Traceback (most recent call last):
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:145:in `initialize'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:145:in `new'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:145:in `block in run'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:141:in `each'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:141:in `run']'
+Failed to run workflow. Last Error:
+  Found error in state 'OpenStudioMeasures' with message: 'Runner error: Measure '/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb' reported an error with [SWIG director method error. ArgumentError: Wrong # of arguments for overloaded method 'RefrigerationCase.new'.
+Possible C/C++ prototypes are:
+    RefrigerationCase.new(openstudio::model::Model const &model, openstudio::model::Schedule &caseDefrostSchedule)
+    RefrigerationCase.new(openstudio::model::RefrigerationCase const &other)
+    RefrigerationCase.new(openstudio::model::RefrigerationCase &&other)
+
+
+Traceback (most recent call last):
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:145:in `initialize'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:145:in `new'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:145:in `block in run'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:141:in `each'
+/runs/measure_b8e8b4046000/measures/apply_supermarket_refrigeration/measure.rb:141:in `run']'

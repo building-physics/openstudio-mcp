@@ -1,0 +1,29 @@
+{
+  "seed_file": "/runs/measure_eb4632d82172/in.osm",
+  "file_paths": [
+    "/inputs"
+  ],
+  "measure_paths": [
+    "/runs/measure_eb4632d82172/measures"
+  ],
+  "steps": [
+    {
+      "measure_dir_name": "create_typical_building_from_model",
+      "arguments": {
+        "template": "90.1-2019",
+        "system_type": "Inferred",
+        "climate_zone": "ASHRAE 169-2013-5A",
+        "htg_src": "NaturalGas",
+        "clg_src": "Electricity",
+        "swh_src": "Inferred",
+        "add_constructions": "true",
+        "add_space_type_loads": "true",
+        "add_hvac": "true",
+        "add_swh": "true",
+        "add_exterior_lights": "true",
+        "add_thermostat": "true",
+        "remove_objects": "true"
+      }
+    }
+  ]
+}

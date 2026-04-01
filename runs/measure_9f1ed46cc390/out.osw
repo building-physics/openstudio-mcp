@@ -1,0 +1,34 @@
+{
+   "completed_at" : "20260401T150138Z",
+   "completed_status" : "Fail",
+   "current_step" : 0,
+   "file_paths" : 
+   [
+      "/runs/measure_9f1ed46cc390/generated_files",
+      "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "FFF39DC0",
+   "measure_paths" : 
+   [
+      "/runs/measure_9f1ed46cc390/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_9f1ed46cc390/in.osm",
+   "started_at" : "20260401T150133Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "refrigeration_json_path" : "/runs/exports/SuperMarket_advanced_refrigeration_system.json"
+         },
+         "measure_dir_name" : "apply_supermarket_refrigeration"
+      }
+   ],
+   "updated_at" : "20260401T150138Z"
+}

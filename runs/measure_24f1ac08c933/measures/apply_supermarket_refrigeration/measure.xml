@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<measure>
+  <schema_version>3.1</schema_version>
+  <name>apply_supermarket_refrigeration</name>
+  <uid>dff5cadd-77ee-4623-8cb3-d96f21c2fd9f</uid>
+  <version_id>15988e5f-1584-4476-8e65-6b75661ebb50</version_id>
+  <version_modified>2026-04-01T15:17:22Z</version_modified>
+  <xml_checksum>359A34E2</xml_checksum>
+  <class_name>ApplySupermarketRefrigeration</class_name>
+  <display_name>Apply Supermarket Refrigeration</display_name>
+  <description>Loads a supermarket refrigeration system from an OpenStudio JSON file and applies compressors, condensers, display cases, and walk-in coolers/freezers to the model.</description>
+  <modeler_description>Loads a supermarket refrigeration system from an OpenStudio JSON file and applies compressors, condensers, display cases, and walk-in coolers/freezers to the model.</modeler_description>
+  <arguments>
+    <argument>
+      <name>json_path</name>
+      <display_name>Refrigeration JSON Path</display_name>
+      <description>Absolute path to the supermarket refrigeration system JSON file</description>
+      <type>String</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>/runs/SuperMarket_advanced_refrigeration_system.json</default_value>
+    </argument>
+  </arguments>
+  <outputs />
+  <provenances />
+  <tags>
+    <tag>Whole Building.Space Types</tag>
+  </tags>
+  <attributes>
+    <attribute>
+      <name>Measure Type</name>
+      <value>ModelMeasure</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Measure Language</name>
+      <value>Ruby</value>
+      <datatype>string</datatype>
+    </attribute>
+  </attributes>
+  <files>
+    <file>
+      <filename>LICENSE.md</filename>
+      <filetype>md</filetype>
+      <usage_type>license</usage_type>
+      <checksum>CD7F5672</checksum>
+    </file>
+    <file>
+      <filename>README.md</filename>
+      <filetype>md</filetype>
+      <usage_type>readme</usage_type>
+      <checksum>77E77224</checksum>
+    </file>
+    <file>
+      <filename>README.md.erb</filename>
+      <filetype>erb</filetype>
+      <usage_type>readmeerb</usage_type>
+      <checksum>F1C26127</checksum>
+    </file>
+    <file>
+      <filename>.gitkeep</filename>
+      <filetype>gitkeep</filetype>
+      <usage_type>doc</usage_type>
+      <checksum>00000000</checksum>
+    </file>
+    <file>
+      <version>
+        <software_program>OpenStudio</software_program>
+        <identifier>3.11.0</identifier>
+        <min_compatible>3.11.0</min_compatible>
+      </version>
+      <filename>measure.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>script</usage_type>
+      <checksum>A96C1351</checksum>
+    </file>
+    <file>
+      <filename>apply_supermarket_refrigeration_test.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>test</usage_type>
+      <checksum>0917B0E4</checksum>
+    </file>
+    <file>
+      <filename>example_model.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>D6BD40D0</checksum>
+    </file>
+  </files>
+</measure>

@@ -1,0 +1,148 @@
+ExpandObjects Started.
+No expanded file generated.
+ExpandObjects Finished. Time:     0.254
+EnergyPlus Starting
+EnergyPlus, Version 25.2.0-cf7368216c, YMD=2026.03.19 22:37
+Initializing Response Factors
+Calculating CTFs for "INTERIORFURNISHINGS"
+Calculating CTFs for "TYPICAL IEAD ROOF R-31.25"
+Calculating CTFs for "TYPICAL INSULATED EXTERIOR MASS WALL R-11.11"
+Calculating CTFs for "TYPICAL INTERIOR WALL"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 1699.8M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 172.83M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 185.62M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 23.16M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 349.11M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 38.37M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 388.39M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 40.79M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 45.97M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.0M AREA 51.85M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.53M AREA 2.43M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.88M AREA 4.02M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 0.93M AREA 4.27M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 1.05M AREA 4.82M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 1.19M AREA 5.43M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 3.96M AREA 18.1M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 38.94M AREA 178.05M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 4.25M AREA 19.44M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 43.65M AREA 199.56M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 8.0M AREA 36.57M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 8.9M AREA 40.68M2"
+Calculating CTFs for "FOUNDATION F 0.9W/M*K PERIM 9.14M AREA 20.9M2"
+Initializing Window Optical Properties
+Initializing Solar Calculations
+Allocate Solar Module Arrays
+Initializing Zone and Enclosure Report Variables
+Initializing Surface (Shading) Report Variables
+Computing Interior Solar Absorption Factors
+Determining Shadowing Combinations
+Computing Window Shade Absorption Factors
+Proceeding with Initializing Solar Calculations
+Initializing Surfaces
+Initializing Outdoor environment for Surfaces
+Setting up Surface Reporting Variables
+Initializing Temperature and Flux Histories
+Initializing Window Shading
+Computing Interior Absorption Factors
+Computing Interior Diffuse Solar Absorption Factors
+Initializing Solar Heat Gains
+Initializing Internal Heat Gains
+Initializing Interior Solar Distribution
+Initializing Interior Convection Coefficients
+Gathering Information for Predefined Reporting
+Completed Initializing Surface Heat Balance
+Calculate Outside Surface Heat Balance
+Calculate Inside Surface Heat Balance
+Calculate Air Heat Balance
+Initializing HVAC
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #1 BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #2 BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS WB=>MDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #3 BOSTON LOGAN INTL ARPT ANN HTG 99.6% CONDNS DB 1
+Calculating System sizing
+...for Sizing Period: #1 BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1
+Calculating System sizing
+...for Sizing Period: #2 BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS WB=>MDB 1
+Calculating System sizing
+...for Sizing Period: #3 BOSTON LOGAN INTL ARPT ANN HTG 99.6% CONDNS DB 1
+Adjusting Air System Sizing
+Adjusting Standard 62.1 Ventilation Sizing
+Initializing Simulation
+Reporting Surfaces
+Beginning HVAC Sizing Simulation
+Initializing New Environment Parameters, HVAC Sizing Simulation
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting HVAC Sizing Simulation at 07/21 for BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1
+Initializing New Environment Parameters, HVAC Sizing Simulation
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Warming up {7}
+Warming up {8}
+Starting HVAC Sizing Simulation at 07/21 for BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS WB=>MDB 1 HVAC Sizing Pass 1
+Initializing New Environment Parameters, HVAC Sizing Simulation
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Starting HVAC Sizing Simulation at 01/21 for BOSTON LOGAN INTL ARPT ANN HTG 99.6% CONDNS DB 1 HVAC Sizing Pass 1
+Beginning Primary Simulation
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 07/21 for BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Warming up {7}
+Warming up {8}
+Starting Simulation at 07/21 for BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS WB=>MDB 1
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Starting Simulation at 01/21 for BOSTON LOGAN INTL ARPT ANN HTG 99.6% CONDNS DB 1
+Writing tabular output file results using HTML format.
+Computing Life Cycle Costs and Reporting
+Writing final SQL reports
+EnergyPlus Run Time=00hr 00min 42.66sec
+EnergyPlus Completed Successfully.

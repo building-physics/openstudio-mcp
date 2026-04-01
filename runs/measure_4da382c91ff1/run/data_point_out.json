@@ -1,0 +1,37 @@
+{
+  "CreateTypicalBuildingFromModel" : 
+  {
+    "add_constructions" : true,
+    "add_elevators" : true,
+    "add_exhaust" : true,
+    "add_exterior_lights" : true,
+    "add_hvac" : true,
+    "add_internal_mass" : true,
+    "add_refrigeration" : true,
+    "add_space_type_loads" : true,
+    "add_swh" : true,
+    "add_thermostat" : true,
+    "applicable" : true,
+    "clg_src" : "Electricity",
+    "climate_zone" : "Lookup From Model",
+    "exterior_lighting_zone" : "3 - All Other Areas",
+    "htg_src" : "NaturalGas",
+    "hvac_delivery_type" : "Forced Air",
+    "kitchen_makeup" : "Adjacent",
+    "modify_wkdy_op_hrs" : false,
+    "modify_wknd_op_hrs" : false,
+    "onsite_parking_fraction" : 1.0,
+    "refrigeration_template" : "new",
+    "remove_objects" : true,
+    "swh_src" : "Inferred",
+    "system_type" : "Inferred",
+    "template" : "90.1-2019",
+    "unmet_hours_tolerance" : 1.0,
+    "use_upstream_args" : true,
+    "wall_construction_type" : "Inferred",
+    "wkdy_op_hrs_duration" : 8.0,
+    "wkdy_op_hrs_start_time" : 8.0,
+    "wknd_op_hrs_duration" : 8.0,
+    "wknd_op_hrs_start_time" : 8.0
+  }
+}

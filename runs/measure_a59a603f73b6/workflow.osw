@@ -1,0 +1,17 @@
+{
+  "seed_file": "/runs/measure_a59a603f73b6/in.osm",
+  "file_paths": [
+    "/inputs"
+  ],
+  "measure_paths": [
+    "/runs/measure_a59a603f73b6/measures"
+  ],
+  "steps": [
+    {
+      "measure_dir_name": "add_supermarket_refrigeration",
+      "arguments": {
+        "json_path": "/runs/SuperMarket_advanced_refrigeration_system.json"
+      }
+    }
+  ]
+}
