@@ -1,0 +1,282 @@
+{
+   "completed_at" : "20260401T144734Z",
+   "completed_status" : "Fail",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_24065fb43ef2/generated_files",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "1BD92E3F",
+   "measure_paths" : 
+   [
+      "/runs/measure_24065fb43ef2/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_24065fb43ef2/in.osm",
+   "started_at" : "20260401T144725Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "add_constructions" : "true",
+            "add_exterior_lights" : "true",
+            "add_hvac" : "true",
+            "add_space_type_loads" : "true",
+            "add_swh" : "true",
+            "add_thermostat" : "true",
+            "clg_src" : "Electricity",
+            "climate_zone" : "ASHRAE 169-2013-4A",
+            "htg_src" : "NaturalGas",
+            "remove_objects" : "true",
+            "swh_src" : "Inferred",
+            "system_type" : "Inferred",
+            "template" : "90.1-2019"
+         },
+         "measure_dir_name" : "create_typical_building_from_model",
+         "result" : 
+         {
+            "completed_at" : "20260401T144734Z",
+            "measure_class_name" : "CreateTypicalBuildingFromModel",
+            "measure_display_name" : "Create Typical Building from Model",
+            "measure_name" : "create_typical_building_from_model",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "339a2e3a-273c-4494-bb50-bfe586a0647c",
+            "measure_version_id" : "bd1d8944-8296-4ba2-9fd2-3c407a3cbc94",
+            "measure_version_modified" : "20250725T185559Z",
+            "measure_xml_checksum" : "EE13F09F",
+            "started_at" : "20260401T144731Z",
+            "stderr" : "",
+            "stdout" : "[openstudio.prototype.Model] <Error> The building does not appear to have any conditioned zones. Make sure zones have thermostat with appropriate heating and cooling setpoint schedules.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.standards.Model] <Error> Model has not been assigned a weather file.\n[openstudio.measure.OSRunner] <Error> [openstudio.prototype.Model] The building does not appear to have any conditioned zones. Make sure zones have thermostat with appropriate heating and cooling setpoint schedules.\n[openstudio.measure.OSRunner] <Error> [openstudio.standards.Model] Model has not been assigned a weather file.\n",
+            "step_errors" : 
+            [
+               "[openstudio.prototype.Model] The building does not appear to have any conditioned zones. Make sure zones have thermostat with appropriate heating and cooling setpoint schedules.",
+               "[openstudio.standards.Model] Model has not been assigned a weather file."
+            ],
+            "step_files" : [],
+            "step_info" : 
+            [
+               "The building started with 161 objects.",
+               "Using OpenStudio Standards version 0.8.5 with template 90.1-2019.",
+               "Loading OpenStudio Standards data for",
+               "Loading OpenStudio Standards data for 90.1-2019",
+               "Using climate zone ASHRAE 169-2013-4A from user arguments",
+               "Baseline Model Space Type was not found in the standards data.",
+               "Set FC factor constructions for slab and below grade walls.",
+               "Adding construction set: 90.1-2019-ASHRAE 169-2013-4A-SuperMarket--is_residentialNo",
+               "Adding construction Typical Insulated Exterior Mass Floor R-17.54.",
+               "Adding construction Typical Insulated Exterior Mass Wall R-9.62.",
+               "Adding construction Typical IEAD Roof R-31.25.",
+               "Adding construction Typical Interior Floor.",
+               "Adding construction Typical Interior Wall.",
+               "Adding construction Typical Interior Ceiling.",
+               "Adding construction Typical Insulated Carpeted 8in Slab Floor.",
+               "Adding construction Typical Insulated Basement Mass Wall.",
+               "Adding construction U 0.36 SHGC 0.36 Simple Glazing.",
+               "Adding construction U 0.45 SHGC 0.33 Simple Glazing.",
+               "Adding construction Typical Insulated Metal Door R-2.7.",
+               "Adding construction U 0.63 SHGC 0.33 Simple Glazing.",
+               "Adding construction Typical Overhead Door R-3.23.",
+               "Adding construction U 0.5 SHGC 0.4 Simple Glazing.",
+               "Adding construction Typical Interior Window.",
+               "Adding construction Typical Interior Door.",
+               "Adding construction Typical Interior Partition.",
+               "Adding default construction set named 90.1-2019 - SpMarket - ASHRAE 169-2013-4A",
+               "Extracting weather files from OpenStudio CLI to /runs/measure_24065fb43ef2/run/000_create_typical_building_from_model/extracted_files/weather",
+               "User-inputed airtightness design value 13.8 (m^3/h-m^2) at 75.0 Pa converts to 2.0531858 (m^3/h-m^2) at 4 Pa",
+               "4-sided area = 1500.0 m^2, 5-sided area = 6500.0 m^2, 6-sided area = 6500.0 m^2.",
+               "5-sided infiltration design value 0.0005703 (m^3/s-m^2) converted to 0.0005703 (m^3/s-m^2) based on 5-sided area 6500.0 m^2 and 5-sided area 6500.0 m^2 excluding ground boundary surfaces for energyplus.",
+               "The largest airloop or HVAC system serves 0.0 m^2, which is less than 5% of the building area 5000.0 m^2. Attempting to use building hours of operation schedule instead.",
+               "Using building type RetailStandalone for model building type SuperMarket.",
+               "The modeled started with 0 infiltration objects and 0 effective leakage area objects.",
+               "The modeled finished with 10 infiltration objects.",
+               "The building only has 1 story, no elevators will be added.",
+               "No elevators added to the building.",
+               "Using OpenStudio Standards version 0.8.5 with template 90.1-2013.",
+               "Loading OpenStudio Standards data for",
+               "Loading OpenStudio Standards data for 90.1-2013",
+               "Facade and Landscape exterior lights shut off from {:hr=>24, :min=>0} to {:hr=>6, :min=>0}",
+               "Added 0.04 W/ft^2 of lighting for 76293.02972991666 ft^2 of parking area.",
+               "Added 0.15 W/ft^2 of lighting for 16145.865625064584 ft^2 of building facade area.",
+               "Added 30.0 W/ft of lighting for 43.05564166683889 ft of main entry length.",
+               "Added 20.0 W/ft of lighting for 63.076515041918974 ft of other doors.",
+               "Adding Exterior Lights named Parking Areas and Drives 0.04 W/ft^2 Def (W/ft^2) with design level of 0.041 * 76,293.",
+               "Adding Exterior Lights named Building Facades 0.15 W/ft^2 Def (W/ft^2) with design level of 0.15 * 16,146.",
+               "Adding Exterior Lights named Main Entries 30.0 W/ft Def (W/ft) with design level of 30.0 * 43.",
+               "Adding Exterior Lights named Other Doors 20.0 W/ft Def (W/ft) with design level of 20.0 * 63.",
+               "Using OpenStudio Standards version 0.8.5 with template 90.1-2013.",
+               "Loading OpenStudio Standards data for",
+               "Loading OpenStudio Standards data for 90.1-2013",
+               "The model space types do not typical have refrigeration cases or walkins. No refrigeration system will be added.",
+               "Using OpenStudio Standards version 0.8.5 with template 90.1-2013.",
+               "Loading OpenStudio Standards data for",
+               "Loading OpenStudio Standards data for 90.1-2013",
+               "Finished adding internal mass",
+               "Using OpenStudio Standards version 0.8.5 with template 90.1-2019.",
+               "Loading OpenStudio Standards data for",
+               "Loading OpenStudio Standards data for 90.1-2019",
+               "Zone Story 1 Core Thermal Zone is unconditioned.  It will not be assigned a baseline system.",
+               "Zone Story 1 East Perimeter Thermal Zone is unconditioned.  It will not be assigned a baseline system.",
+               "Zone Story 1 North Perimeter Thermal Zone is unconditioned.  It will not be assigned a baseline system.",
+               "Zone Story 1 South Perimeter Thermal Zone is unconditioned.  It will not be assigned a baseline system.",
+               "Zone Story 1 West Perimeter Thermal Zone is unconditioned.  It will not be assigned a baseline system.",
+               "Set sizing factors to 1.25 for heating and 1.15 for cooling.",
+               "Started simulation /runs/measure_24065fb43ef2/run/000_create_typical_building_from_model/create_typical_building_from_model_SR1 at 14:47:34.305"
+            ],
+            "step_result" : "Fail",
+            "step_values" : 
+            [
+               {
+                  "name" : "template",
+                  "value" : "90.1-2019"
+               },
+               {
+                  "name" : "system_type",
+                  "value" : "Inferred"
+               },
+               {
+                  "name" : "hvac_delivery_type",
+                  "value" : "Forced Air"
+               },
+               {
+                  "name" : "htg_src",
+                  "value" : "NaturalGas"
+               },
+               {
+                  "name" : "clg_src",
+                  "value" : "Electricity"
+               },
+               {
+                  "name" : "swh_src",
+                  "value" : "Inferred"
+               },
+               {
+                  "name" : "kitchen_makeup",
+                  "value" : "Adjacent"
+               },
+               {
+                  "name" : "exterior_lighting_zone",
+                  "value" : "3 - All Other Areas"
+               },
+               {
+                  "name" : "add_constructions",
+                  "value" : true
+               },
+               {
+                  "name" : "wall_construction_type",
+                  "value" : "Inferred"
+               },
+               {
+                  "name" : "add_space_type_loads",
+                  "value" : true
+               },
+               {
+                  "name" : "add_elevators",
+                  "value" : true
+               },
+               {
+                  "name" : "add_internal_mass",
+                  "value" : true
+               },
+               {
+                  "name" : "add_exterior_lights",
+                  "value" : true
+               },
+               {
+                  "name" : "onsite_parking_fraction",
+                  "value" : 1.0
+               },
+               {
+                  "name" : "add_exhaust",
+                  "value" : true
+               },
+               {
+                  "name" : "add_swh",
+                  "value" : true
+               },
+               {
+                  "name" : "add_thermostat",
+                  "value" : true
+               },
+               {
+                  "name" : "add_hvac",
+                  "value" : true
+               },
+               {
+                  "name" : "add_refrigeration",
+                  "value" : true
+               },
+               {
+                  "name" : "refrigeration_template",
+                  "value" : "new"
+               },
+               {
+                  "name" : "modify_wkdy_op_hrs",
+                  "value" : false
+               },
+               {
+                  "name" : "wkdy_op_hrs_start_time",
+                  "value" : 8.0
+               },
+               {
+                  "name" : "wkdy_op_hrs_duration",
+                  "value" : 8.0
+               },
+               {
+                  "name" : "modify_wknd_op_hrs",
+                  "value" : false
+               },
+               {
+                  "name" : "wknd_op_hrs_start_time",
+                  "value" : 8.0
+               },
+               {
+                  "name" : "wknd_op_hrs_duration",
+                  "value" : 8.0
+               },
+               {
+                  "name" : "unmet_hours_tolerance",
+                  "value" : 1.0
+               },
+               {
+                  "name" : "remove_objects",
+                  "value" : true
+               },
+               {
+                  "name" : "use_upstream_args",
+                  "value" : true
+               },
+               {
+                  "name" : "climate_zone",
+                  "value" : "ASHRAE 169-2013-4A"
+               }
+            ],
+            "step_warnings" : 
+            [
+               "[openstudio.standards.Prototypes] No mapping found for standards building type 'SuperMarket' and standards space type 'WholeBuilding'",
+               "[openstudio.standards.SpaceType] No space type properties found for space type Baseline Model Space Type with standards space type '' in building SuperMarket",
+               "[openstudio.standards.SpaceType] Space type properties lookup failed: {\"template\"=>\"90.1-2019\", \"building_type\"=>\"SuperMarket\", \"space_type\"=>\"WholeBuilding\"}.",
+               "[openstudio.standards.CreateTypical] Could not add loads for Baseline Model Space Type. Not expected for 90.1-2019",
+               "[openstudio.standards.Model] Find object search criteria returned 2 results, the first one will be returned. Called from :/ruby/3.2.0/gems/openstudio-standards-0.8.5/lib/openstudio-standards/standards/Standards.Model.rb:3079:in `model_add_construction'. \n Search criteria: \n {\"name\"=>\"U 0.36 SHGC 0.36 Simple Glazing\"}, capacity =  \n  All results: \n {\"name\"=>\"U 0.36 SHGC 0.36 Simple Glazing\", \"intended_surface_type\"=>\"ExteriorWindow\", \"standards_construction_type\"=>\"Metal framing (all other)\", \"insulation_layer\"=>nil, \"skylight_framing\"=>nil, \"materials\"=>",
+               "[openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.36 SHGC 0.36 Simple Glazing, a default value of 0.81 is used.",
+               "[openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.45 SHGC 0.33 Simple Glazing, a default value of 0.81 is used.",
+               "[openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.63 SHGC 0.33 Simple Glazing, a default value of 0.81 is used.",
+               "[openstudio.standards.Model] Find object search criteria returned 2 results, the first one will be returned. Called from :/ruby/3.2.0/gems/openstudio-standards-0.8.5/lib/openstudio-standards/standards/Standards.Model.rb:3079:in `model_add_construction'. \n Search criteria: \n {\"name\"=>\"U 0.5 SHGC 0.4 Simple Glazing\"}, capacity =  \n  All results: \n {\"name\"=>\"U 0.5 SHGC 0.4 Simple Glazing\", \"intended_surface_type\"=>\"Skylight\", \"standards_construction_type\"=>nil, \"insulation_layer\"=>nil, \"skylight_framing\"=>nil, \"materials\"=>",
+               "[openstudio.standards.Model] Cannot find the VT for the simple glazing material named U 0.5 SHGC 0.4 Simple Glazing, a default value of 0.81 is used.",
+               "[openstudio.weather.Model] Could not locate the .epw file, cannot get ground temperatures from the associated .stat file.",
+               "[openstudio.weather.Model] Could not locate the .stat file. Looking up default values based on the climate zone.",
+               "[openstudio.standards.Schedules] Unable to determine building hours of operation schedule. Treating the building as if there is no HVAC system schedule.",
+               "[openstudio.standards.Infiltration.nist_infiltration] Unable to determine the building HVAC schedule. Treating the building as if there is no HVAC system with outdoor air. This may be appropriate for design sizing, particularly heating design sizing. If this is not the case, input a schedule argument, or assign one to an air loop in the model.",
+               "[openstudio.standards.SpaceType] No space type properties found for space type Baseline Model Space Type with standards space type 'WholeBuilding' in building SuperMarket"
+            ]
+         }
+      }
+   ],
+   "updated_at" : "20260401T144734Z"
+}

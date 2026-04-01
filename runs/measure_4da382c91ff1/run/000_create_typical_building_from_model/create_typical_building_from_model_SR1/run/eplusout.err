@@ -1,0 +1,588 @@
+Program Version,EnergyPlus, Version 25.2.0-cf7368216c, YMD=2026.04.01 14:53,
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 00:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BAKERY COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 12:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BAKERY COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 00:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BAKERY COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 12:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BAKERY COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 01:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BAKERY FREEZER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 13:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BAKERY FREEZER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 01:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BAKERY FREEZER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 13:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BAKERY FREEZER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 02:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BEER COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 14:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BEER COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 02:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BEER COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 14:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=BEER COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 00:49
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=COFFIN - FROZEN FOOD DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 00:49
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=COFFIN - FROZEN FOOD DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 00:54
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=COFFIN - FROZEN FOOD DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 01:59
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=COFFIN - ICE CREAM DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 01:59
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=COFFIN - ICE CREAM DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 02:04
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=COFFIN - ICE CREAM DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 03:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=DAIRY COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 15:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=DAIRY COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 03:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=DAIRY COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 15:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=DAIRY COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 04:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=FLORAL COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 16:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=FLORAL COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 04:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=FLORAL COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 16:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=FLORAL COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 05:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=GROCERY FREEZER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 17:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=GROCERY FREEZER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 05:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=GROCERY FREEZER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 17:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=GROCERY FREEZER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 06:48
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=ISLAND - DELI PRODUCE DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 06:48
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=ISLAND - DELI PRODUCE DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 06:53
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=ISLAND - DELI PRODUCE DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 06:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=KITCHEN COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 18:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=KITCHEN COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 06:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=KITCHEN COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 18:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=KITCHEN COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 07:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=KITCHEN FREEZER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 19:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=KITCHEN FREEZER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 07:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=KITCHEN FREEZER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 19:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=KITCHEN FREEZER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 08:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=MEAT COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 20:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=MEAT COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 08:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=MEAT COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 20:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=MEAT COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 09:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=MEAT FREEZER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 21:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=MEAT FREEZER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 09:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=MEAT FREEZER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 21:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=MEAT FREEZER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 10:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PREP COOLER 1 DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 22:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PREP COOLER 1 DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 10:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PREP COOLER 1 DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 22:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PREP COOLER 1 DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 11:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PREP COOLER 2 DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 23:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PREP COOLER 2 DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 11:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PREP COOLER 2 DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 23:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PREP COOLER 2 DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 00:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PRODUCE COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 12:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PRODUCE COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 00:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PRODUCE COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 12:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=PRODUCE COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 03:46
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=REACH-IN - FROZEN FOOD DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 03:46
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=REACH-IN - FROZEN FOOD DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 03:51
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=REACH-IN - FROZEN FOOD DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 02:46
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=REACH-IN - ICE CREAM DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 02:46
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=REACH-IN - ICE CREAM DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 02:51
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=REACH-IN - ICE CREAM DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 1
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 10
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 12
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 13
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 16
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 17
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 18
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 19
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 2
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 20
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 21
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 22
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 23
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 24
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 25
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 26
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 3
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 4
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 5
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 6
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 7
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 8
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval = SCHEDULE DAY 9
+   **   ~~~   ** Schedule Type Limits Name is empty.
+   **   ~~~   ** Schedule will not be validated.
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 01:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=SPECIALTY COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 13:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=SPECIALTY COOLER DEFROST DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 01:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=SPECIALTY COOLER DRIPDOWN DEFAULT
+   ** Warning ** ProcessScheduleInput: DecodeHHMMField, Invalid "until" field value is not a multiple of the minutes for each timestep: 13:45
+   **   ~~~   ** Other errors may result. Occurred in Day Schedule=SPECIALTY COOLER DRIPDOWN DEFAULT
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** CheckUsedConstructions: There are 13 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** GetRefrigerationInput: Refrigeration:System="LT REFRIGERATION SYSTEM" Suction Piping Zone Name not found even though Sum UA Suction Piping is greater than zero. Suction piping heat gain will not be calculated unless a Zone is defined to determine the environmental temperature surrounding the piping.
+   ** Warning ** GetRefrigerationInput: Refrigeration:System="MT REFRIGERATION SYSTEM" Suction Piping Zone Name not found even though Sum UA Suction Piping is greater than zero. Suction piping heat gain will not be calculated unless a Zone is defined to determine the environmental temperature surrounding the piping.
+   ** Warning ** Refrigeration:Case: REACH-IN - DAIRY DELI BEVERAGE CASE
+   **   ~~~   **  This case has insufficient capacity to meet excess energy associated with stocking.
+   **   ~~~   **  Refer to documentation for further explanation of product stocking requirements and
+   **   ~~~   **  Total Cooling Capacity.
+   ** Warning ** Refrigeration:Case: VERTICAL OPEN - ALL
+   **   ~~~   **  This case has insufficient capacity to meet excess energy associated with stocking.
+   **   ~~~   **  Refer to documentation for further explanation of product stocking requirements and
+   **   ~~~   **  Total Cooling Capacity.
+   ** Warning ** Calculated design cooling load for zone=ZONE SUPERMARKET VESTIBULE A  - STORY GROUND is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=ZONE SUPERMARKET VESTIBULE A  - STORY GROUND is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design cooling load for zone=ZONE SUPERMARKET VESTIBULE B  - STORY GROUND is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=ZONE SUPERMARKET VESTIBULE B  - STORY GROUND is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design cooling load for zone=ZONE SUPERMARKET VESTIBULE C  - STORY GROUND is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=ZONE SUPERMARKET VESTIBULE C  - STORY GROUND is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ************* Beginning System Sizing Calculations
+   ************* Beginning Plant Sizing Calculations
+   ** Severe  ** SizeAirLoopBranches: AirLoopHVAC ZONE SUPERMARKET VESTIBULE A  - STORY GROUND PSZ-AC has air flow less than 1.0000E-003 m3/s.
+   **   ~~~   ** Primary air system volumetric flow rate = 7.3937E-004 m3/s.
+   **   ~~~   ** Check flow rate inputs for components in this air loop and,
+   **   ~~~   ** if autosized, check Sizing:Zone and Sizing:System objects and related inputs.
+   ** Severe  ** SizeAirLoopBranches: AirLoopHVAC ZONE SUPERMARKET VESTIBULE C  - STORY GROUND PSZ-AC has air flow less than 1.0000E-003 m3/s.
+   **   ~~~   ** Primary air system volumetric flow rate = 7.3937E-004 m3/s.
+   **   ~~~   ** Check flow rate inputs for components in this air loop and,
+   **   ~~~   ** if autosized, check Sizing:Zone and Sizing:System objects and related inputs.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 34"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET BAKERY A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 36"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET BAKERY B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 35"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET BAKERY C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 1"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET CORRIDOR A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 2"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET CORRIDOR B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 3"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET CORRIDOR C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 40"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET DELI A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 41"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET DELI B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 42"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET DELI C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 37"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET DINING A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 38"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET DINING B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 39"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET DINING C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 14"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET DRYSTORAGE A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 13"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET DRYSTORAGE B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 15"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET DRYSTORAGE C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 7"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET ELEC/MECHROOM A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 8"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET ELEC/MECHROOM B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 9"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET ELEC/MECHROOM C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 19"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET MEETING A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 20"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET MEETING B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 21"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET MEETING C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 16"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET OFFICE A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 17"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET OFFICE B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 18"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET OFFICE C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 22"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET PRODUCE A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 23"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET PRODUCE A END_B - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 24"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET PRODUCE B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 25"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET PRODUCE B END_B - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 26"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET PRODUCE C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 27"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET PRODUCE C END_B - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 10"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET RESTROOM A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 11"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET RESTROOM B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 12"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET RESTROOM C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 29"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET SALES A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 30"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET SALES A END_A - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 31"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET SALES B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 28"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET SALES B END_A - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 33"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET SALES C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 32"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET SALES C END_A - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 4"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET VESTIBULE A  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 5"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET VESTIBULE B  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="CONTROLLER MECHANICAL VENTILATION 6"
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="ZONE SUPERMARKET VESTIBULE C  - STORY GROUND".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Severe  ** Developer Error: sizing of Gross Rated Sensible Heat Ratio failed.
+   **   ~~~   ** Occurs in Coil:Cooling:DX:SingleSpeed ZONE SUPERMARKET VESTIBULE A  - STORY GROUND PSZ-AC 1SPD DX AC CLG COIL
+   ** Severe  ** For object = Coil:Cooling:DX:SingleSpeed, name = "ZONE SUPERMARKET VESTIBULE A  - STORY GROUND PSZ-AC 1SPD DX AC CLG COIL"
+   **   ~~~   ** Calculated outlet air temperature is lower than the dew point temperature at the same humidity ratio.
+   **   ~~~   ** ...Inlet Air Temperature                      = 26.67 C
+   **   ~~~   ** ...Outlet Air Temperature                     = 5.74 C
+   **   ~~~   ** ...Dew Point Temperature                      = 15.75 C
+   **   ~~~   ** ...Inlet Air Humidity Ratio                   = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Outlet Air Humidity Ratio                  = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Dew Point Humidity Ratio                   = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Inlet Air Enthalpy                         = 55322.48 J/kg
+   **   ~~~   ** ...Outlet Air Enthalpy                        = 33855.06 J/kg
+   **   ~~~   ** ...Total Cooling Capacity used in calculation = 18.36 W
+   **   ~~~   ** ...Air Mass Flow Rate used in calculation     = 8.552665E-004 kg/s
+   **   ~~~   ** ...Air Volume Flow Rate used in calculation   = 7.393717E-004 m3/s
+   **   ~~~   ** ...Sensible Heat Ratio                        = 1.00
+   **   ~~~   ** Check coil design sensible heat ratio, total gross rated capacity, and air flow inputs.
+   ** Warning ** For object = Coil:Cooling:DX:SingleSpeed, name = "ZONE SUPERMARKET VESTIBULE A  - STORY GROUND PSZ-AC 1SPD DX AC CLG COIL"
+   **   ~~~   ** Calculated outlet air relative humidity greater than 1. The combination of
+   **   ~~~   ** rated air volume flow rate, total cooling capacity and sensible heat ratio yields coil exiting
+   **   ~~~   ** air conditions above the saturation curve. Possible fixes are to reduce the rated total cooling
+   **   ~~~   ** capacity, increase the rated air volume flow rate, or reduce the rated sensible heat ratio for this coil.
+   **   ~~~   ** If autosizing, it is recommended that all three of these values be autosized.
+   **   ~~~   ** ...Inputs used for calculating cooling coil bypass factor.
+   **   ~~~   ** ...Inlet Air Temperature     = 26.67 C
+   **   ~~~   ** ...Outlet Air Temperature    = 5.74 C
+   **   ~~~   ** ...Inlet Air Humidity Ratio  = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Outlet Air Humidity Ratio = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Total Cooling Capacity used in calculation = 18.36 W
+   **   ~~~   ** ...Air Mass Flow Rate used in calculation     = 8.552665E-004 kg/s
+   **   ~~~   ** ...Air Volume Flow Rate used in calculation   = 7.393717E-004 m3/s
+   **   ~~~   **  During Warmup, Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   ** CalcCBF: SHR adjusted to achieve valid outlet air properties and the simulation continues.
+   **   ~~~   ** CalcCBF: initial SHR = 1.00000
+   **   ~~~   ** CalcCBF: adjusted SHR = 0.70135
+   ** Severe  ** Developer Error: sizing of Gross Rated Sensible Heat Ratio failed.
+   **   ~~~   ** Occurs in Coil:Cooling:DX:SingleSpeed ZONE SUPERMARKET VESTIBULE C  - STORY GROUND PSZ-AC 1SPD DX AC CLG COIL
+   ** Severe  ** For object = Coil:Cooling:DX:SingleSpeed, name = "ZONE SUPERMARKET VESTIBULE C  - STORY GROUND PSZ-AC 1SPD DX AC CLG COIL"
+   **   ~~~   ** Calculated outlet air temperature is lower than the dew point temperature at the same humidity ratio.
+   **   ~~~   ** ...Inlet Air Temperature                      = 26.67 C
+   **   ~~~   ** ...Outlet Air Temperature                     = 5.74 C
+   **   ~~~   ** ...Dew Point Temperature                      = 15.75 C
+   **   ~~~   ** ...Inlet Air Humidity Ratio                   = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Outlet Air Humidity Ratio                  = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Dew Point Humidity Ratio                   = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Inlet Air Enthalpy                         = 55322.48 J/kg
+   **   ~~~   ** ...Outlet Air Enthalpy                        = 33855.06 J/kg
+   **   ~~~   ** ...Total Cooling Capacity used in calculation = 18.36 W
+   **   ~~~   ** ...Air Mass Flow Rate used in calculation     = 8.552665E-004 kg/s
+   **   ~~~   ** ...Air Volume Flow Rate used in calculation   = 7.393717E-004 m3/s
+   **   ~~~   ** ...Sensible Heat Ratio                        = 1.00
+   **   ~~~   ** Check coil design sensible heat ratio, total gross rated capacity, and air flow inputs.
+   ** Warning ** For object = Coil:Cooling:DX:SingleSpeed, name = "ZONE SUPERMARKET VESTIBULE C  - STORY GROUND PSZ-AC 1SPD DX AC CLG COIL"
+   **   ~~~   ** Calculated outlet air relative humidity greater than 1. The combination of
+   **   ~~~   ** rated air volume flow rate, total cooling capacity and sensible heat ratio yields coil exiting
+   **   ~~~   ** air conditions above the saturation curve. Possible fixes are to reduce the rated total cooling
+   **   ~~~   ** capacity, increase the rated air volume flow rate, or reduce the rated sensible heat ratio for this coil.
+   **   ~~~   ** If autosizing, it is recommended that all three of these values be autosized.
+   **   ~~~   ** ...Inputs used for calculating cooling coil bypass factor.
+   **   ~~~   ** ...Inlet Air Temperature     = 26.67 C
+   **   ~~~   ** ...Outlet Air Temperature    = 5.74 C
+   **   ~~~   ** ...Inlet Air Humidity Ratio  = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Outlet Air Humidity Ratio = 1.118470E-002 kgWater/kgDryAir
+   **   ~~~   ** ...Total Cooling Capacity used in calculation = 18.36 W
+   **   ~~~   ** ...Air Mass Flow Rate used in calculation     = 8.552665E-004 kg/s
+   **   ~~~   ** ...Air Volume Flow Rate used in calculation   = 7.393717E-004 m3/s
+   **   ~~~   **  During Warmup, Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   ** CalcCBF: SHR adjusted to achieve valid outlet air properties and the simulation continues.
+   **   ~~~   ** CalcCBF: initial SHR = 1.00000
+   **   ~~~   ** CalcCBF: adjusted SHR = 0.70135
+   ** Warning ** Missing temperature setpoint for LeavingSetpointModulated mode Boiler named BOILER
+   **   ~~~   **   A temperature setpoint is needed at the outlet node of a boiler in variable flow mode, use a SetpointManager
+   **   ~~~   **   The overall loop setpoint will be assumed for Boiler. The simulation continues ... 
+   ** Warning ** Check input. Pump nominal power or motor efficiency is set to 0, for pump=SHARED SERVICE WATER LOOP WATER MAINS PRESSURE DRIVEN
+   ** Warning ** Output:Meter: invalid Key Name="DISTRICTHEATINGWATER:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="DISTRICTCOOLING:FACILITY" - not found.
+   ** Warning ** Output:Meter:MeterFileOnly requested for "Electricity:Facility" (TimeStep), already on "Output:Meter". Will report to both eplusout.eso and eplusout.mtr
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ** Warning ** GetNextEnvironment: Adaptive Comfort being reported during design day.
+   ** Warning ** GetNextEnvironment: Adaptive Comfort being reported during design day.
+   ** Warning ** GetNextEnvironment: Adaptive Comfort being reported during design day.
+   ** Warning ** CalcEquipmentFlowRates: "SUPERMARKET BAKERY A  - STORY GROUND SERVICE WATER USE 0.007GPM 110F" - Target water temperature is greater than the hot water temperature by (5.94 C)
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   ** ...target water temperature     = 43.33 C
+   **   ~~~   ** ...hot water temperature        = 37.40 C
+   **   ~~~   ** ...Target water temperature should be less than or equal to the hot water temperature. Verify temperature setpoints and schedules.
+   ** Warning ** CalcEquipmentFlowRates: "SUPERMARKET BAKERY B  - STORY GROUND SERVICE WATER USE 0.0664GPM 110F" - Target water temperature is greater than the hot water temperature by (5.94 C)
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   ** ...target water temperature     = 43.33 C
+   **   ~~~   ** ...hot water temperature        = 37.40 C
+   **   ~~~   ** ...Target water temperature should be less than or equal to the hot water temperature. Verify temperature setpoints and schedules.
+   ** Warning ** CalcEquipmentFlowRates: "SUPERMARKET BAKERY C  - STORY GROUND SERVICE WATER USE 0.007GPM 110F" - Target water temperature is greater than the hot water temperature by (5.94 C)
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   ** ...target water temperature     = 43.33 C
+   **   ~~~   ** ...hot water temperature        = 37.40 C
+   **   ~~~   ** ...Target water temperature should be less than or equal to the hot water temperature. Verify temperature setpoints and schedules.
+   ** Warning ** CalcEquipmentFlowRates: "SUPERMARKET DELI A  - STORY GROUND SERVICE WATER USE 0.0075GPM 110F" - Target water temperature is greater than the hot water temperature by (5.94 C)
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   ** ...target water temperature     = 43.33 C
+   **   ~~~   ** ...hot water temperature        = 37.40 C
+   **   ~~~   ** ...Target water temperature should be less than or equal to the hot water temperature. Verify temperature setpoints and schedules.
+   ** Warning ** CalcEquipmentFlowRates: "SUPERMARKET DELI B  - STORY GROUND SERVICE WATER USE 0.0713GPM 110F" - Target water temperature is greater than the hot water temperature by (5.94 C)
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   ** ...target water temperature     = 43.33 C
+   **   ~~~   ** ...hot water temperature        = 37.40 C
+   **   ~~~   ** ...Target water temperature should be less than or equal to the hot water temperature. Verify temperature setpoints and schedules.
+   ** Warning ** CalcEquipmentFlowRates: "SUPERMARKET DELI C  - STORY GROUND SERVICE WATER USE 0.0075GPM 110F" - Target water temperature is greater than the hot water temperature by (5.94 C)
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   ** ...target water temperature     = 43.33 C
+   **   ~~~   ** ...hot water temperature        = 37.40 C
+   **   ~~~   ** ...Target water temperature should be less than or equal to the hot water temperature. Verify temperature setpoints and schedules.
+   ** Warning ** Output:Table:Monthly requested with SimulationControl Run Simulation for Weather File Run Periods set to No so Output:Table:Monthly will not be generated
+   ************* Beginning Simulation
+   ** Warning ** GetNextEnvironment: Adaptive Comfort being reported during design day.
+   ** Warning ** In zone ZONE SUPERMARKET BAKERY A  - STORY GROUND there is unbalanced air flow. Load due to induced outdoor air is neglected.
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   **   Flows [m3/s]: Inlets: 9.323287E-002  Unbalanced exhausts: 0.114032  Returns: 0.000000
+   **   ~~~   **   Infiltration: 1.487496E-002  Zone Ventilation: 0.000000  Mixing (incoming): 0.000000
+   **   ~~~   **   Imbalance (excess outflow): 5.924622E-003  Total system OA flow (for all airloops serving this zone): 9.323287E-002
+   **   ~~~   **   This error will only be reported once per zone.
+   ** Warning ** In zone ZONE SUPERMARKET BAKERY B  - STORY GROUND there is unbalanced air flow. Load due to induced outdoor air is neglected.
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   **   Flows [m3/s]: Inlets: 0.464573  Unbalanced exhausts: 1.088668  Returns: 0.000000
+   **   ~~~   **   Infiltration: 6.081420E-002  Zone Ventilation: 0.000000  Mixing (incoming): 0.000000
+   **   ~~~   **   Imbalance (excess outflow): 0.563281  Total system OA flow (for all airloops serving this zone): 0.464573
+   **   ~~~   **   This error will only be reported once per zone.
+   ** Warning ** In zone ZONE SUPERMARKET BAKERY C  - STORY GROUND there is unbalanced air flow. Load due to induced outdoor air is neglected.
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   **   Flows [m3/s]: Inlets: 7.522472E-002  Unbalanced exhausts: 0.114032  Returns: 0.000000
+   **   ~~~   **   Infiltration: 1.487107E-002  Zone Ventilation: 0.000000  Mixing (incoming): 0.000000
+   **   ~~~   **   Imbalance (excess outflow): 2.393667E-002  Total system OA flow (for all airloops serving this zone): 7.522472E-002
+   **   ~~~   **   This error will only be reported once per zone.
+   ** Warning ** In zone ZONE SUPERMARKET DELI B  - STORY GROUND there is unbalanced air flow. Load due to induced outdoor air is neglected.
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   **   Flows [m3/s]: Inlets: 0.615150  Unbalanced exhausts: 1.169230  Returns: 0.000000
+   **   ~~~   **   Infiltration: 6.528711E-002  Zone Ventilation: 0.000000  Mixing (incoming): 0.000000
+   **   ~~~   **   Imbalance (excess outflow): 0.488793  Total system OA flow (for all airloops serving this zone): 0.615150
+   **   ~~~   **   This error will only be reported once per zone.
+   ** Warning ** In zone ZONE SUPERMARKET DELI C  - STORY GROUND there is unbalanced air flow. Load due to induced outdoor air is neglected.
+   **   ~~~   **  Environment=BOSTON LOGAN INTL ARPT ANN CLG .4% CONDNS DB=>MWB 1, at Simulation time=07/21 00:00 - 00:10
+   **   ~~~   **   Flows [m3/s]: Inlets: 9.423507E-002  Unbalanced exhausts: 0.122471  Returns: 0.000000
+   **   ~~~   **   Infiltration: 1.596867E-002  Zone Ventilation: 0.000000  Mixing (incoming): 0.000000
+   **   ~~~   **   Imbalance (excess outflow): 1.226712E-002  Total system OA flow (for all airloops serving this zone): 9.423507E-002
+   **   ~~~   **   This error will only be reported once per zone.
+   ** Warning ** GetNextEnvironment: Adaptive Comfort being reported during design day.
+   ** Warning ** GetNextEnvironment: Adaptive Comfort being reported during design day.
+   ************* Simulation Error Summary *************
+   ************* There are 8 unused objects in input.
+   ************* Use Output:Diagnostics,DisplayUnusedObjects; to see them.
+   ************* There are 3 unused schedules in input.
+   ************* There are 24 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** Plant loop falling below lower temperature limit, PlantLoop="SHARED SERVICE WATER LOOP"
+   *************  **   ~~~   **   This error occurred 7459 total times;
+   *************  **   ~~~   **   during Warmup 6455 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Min=8.120296
+   *************
+   *************  ** Warning ** "SUPERMARKET BAKERY A  - STORY GROUND SERVICE WATER USE 0.007GPM 110F" - Target water temperature should be less than or equal to the hot water temperature error continues...
+   *************  **   ~~~   **   This error occurred 2995 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=14.967628  Min=0.003517
+   *************
+   *************  ** Warning ** "SUPERMARKET BAKERY B  - STORY GROUND SERVICE WATER USE 0.0664GPM 110F" - Target water temperature should be less than or equal to the hot water temperature error continues...
+   *************  **   ~~~   **   This error occurred 2995 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=14.967628  Min=0.003517
+   *************
+   *************  ** Warning ** "SUPERMARKET BAKERY C  - STORY GROUND SERVICE WATER USE 0.007GPM 110F" - Target water temperature should be less than or equal to the hot water temperature error continues...
+   *************  **   ~~~   **   This error occurred 2995 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=14.967628  Min=0.003517
+   *************
+   *************  ** Warning ** "SUPERMARKET DELI A  - STORY GROUND SERVICE WATER USE 0.0075GPM 110F" - Target water temperature should be less than or equal to the hot water temperature error continues...
+   *************  **   ~~~   **   This error occurred 2995 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=14.967628  Min=0.003517
+   *************
+   *************  ** Warning ** "SUPERMARKET DELI B  - STORY GROUND SERVICE WATER USE 0.0713GPM 110F" - Target water temperature should be less than or equal to the hot water temperature error continues...
+   *************  **   ~~~   **   This error occurred 2995 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=14.967628  Min=0.003517
+   *************
+   *************  ** Warning ** "SUPERMARKET DELI C  - STORY GROUND SERVICE WATER USE 0.0075GPM 110F" - Target water temperature should be less than or equal to the hot water temperature error continues...
+   *************  **   ~~~   **   This error occurred 2995 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=14.967628  Min=0.003517
+   *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 4 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 11 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 25601 Warning; 6 Severe Errors; Elapsed Time=00hr 00min 52.31sec

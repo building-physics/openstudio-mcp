@@ -1,0 +1,73 @@
+{
+   "completed_at" : "20260401T151758Z",
+   "completed_status" : "Fail",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_24f1ac08c933/generated_files",
+      "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "0BB22155",
+   "measure_paths" : 
+   [
+      "/runs/measure_24f1ac08c933/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_24f1ac08c933/in.osm",
+   "started_at" : "20260401T151751Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "json_path" : "/runs/exports/SuperMarket_advanced_refrigeration_system.json"
+         },
+         "measure_dir_name" : "apply_supermarket_refrigeration",
+         "result" : 
+         {
+            "completed_at" : "20260401T151758Z",
+            "measure_class_name" : "ApplySupermarketRefrigeration",
+            "measure_display_name" : "Apply Supermarket Refrigeration",
+            "measure_name" : "apply_supermarket_refrigeration",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "dff5cadd-77ee-4623-8cb3-d96f21c2fd9f",
+            "measure_version_id" : "15988e5f-1584-4476-8e65-6b75661ebb50",
+            "measure_version_modified" : "20260401T151722Z",
+            "measure_xml_checksum" : "359A34E2",
+            "started_at" : "20260401T151757Z",
+            "stderr" : "",
+            "stdout" : "[openstudio.measure.OSRunner] <Error> SWIG director method error. ArgumentError: wrong # of arguments(2 for 1)\n\nTraceback (most recent call last):\n/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:183:in `setZoneBoundaryTotalInsulatedSurfaceAreaFacingZone'\n/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:183:in `block in run'\n/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:166:in `each'\n/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:166:in `run'\n",
+            "step_errors" : 
+            [
+               "SWIG director method error. ArgumentError: wrong # of arguments(2 for 1)\n\nTraceback (most recent call last):\n/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:183:in `setZoneBoundaryTotalInsulatedSurfaceAreaFacingZone'\n/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:183:in `block in run'\n/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:166:in `each'\n/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:166:in `run'"
+            ],
+            "step_files" : [],
+            "step_info" : 
+            [
+               "Created 9 curves",
+               "Created 135 compressors",
+               "Created 9 condensers",
+               "Created 6 MT racks, 3 LT racks",
+               "Created 14 display cases"
+            ],
+            "step_initial_condition" : "Loading 201 refrigeration objects",
+            "step_result" : "Fail",
+            "step_values" : 
+            [
+               {
+                  "name" : "json_path",
+                  "value" : "/runs/exports/SuperMarket_advanced_refrigeration_system.json"
+               }
+            ],
+            "step_warnings" : []
+         }
+      }
+   ],
+   "updated_at" : "20260401T151758Z"
+}

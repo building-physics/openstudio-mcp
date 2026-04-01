@@ -1,0 +1,5 @@
+[openstudio.workflow.OSWorkflow] <Error> Found error in state 'OpenStudioMeasures' with message: 'Could not find argument 'refrigeration_json_path' in argument_map
+'
+Failed to run workflow. Last Error:
+  Found error in state 'OpenStudioMeasures' with message: 'Could not find argument 'refrigeration_json_path' in argument_map
+'

@@ -1,0 +1,94 @@
+{
+   "completed_at" : "20260401T145157Z",
+   "completed_status" : "Success",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_e37620531784/generated_files",
+      "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "F49BFEFB",
+   "measure_paths" : 
+   [
+      "/runs/measure_e37620531784/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_e37620531784/in.osm",
+   "started_at" : "20260401T145145Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "climate_zone" : "Lookup From Stat File",
+            "weather_file_name" : "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests/USA_MA_Boston-Logan.Intl.AP.725090_TMY3.epw"
+         },
+         "measure_dir_name" : "ChangeBuildingLocation",
+         "result" : 
+         {
+            "completed_at" : "20260401T145157Z",
+            "measure_class_name" : "ChangeBuildingLocation",
+            "measure_display_name" : "ChangeBuildingLocation",
+            "measure_name" : "change_building_location",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "d4db4971-f5ba-11e3-a3ac-0800200c9a66",
+            "measure_version_id" : "48720333-3c3d-40be-8fb1-7a2c84bdc44e",
+            "measure_version_modified" : "20250801T143530Z",
+            "measure_xml_checksum" : "057E8D9D",
+            "started_at" : "20260401T145156Z",
+            "stderr" : "",
+            "stdout" : "[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n[openstudio.model.YearDescription] <Error> 'UseWeatherFile' is selected in YearDescription, but there are no weather file set for the model.\n",
+            "step_errors" : [],
+            "step_files" : [],
+            "step_final_condition" : "The final weather file is Boston Logan IntL Arpt and the model has 3 design day objects.",
+            "step_info" : 
+            [
+               "city is Boston Logan IntL Arpt. State is MA",
+               "mean dry bulb is 10.55",
+               "Adding object Boston Logan IntL Arpt Ann Clg .4% Condns DB=>MWB",
+               "Adding object Boston Logan IntL Arpt Ann Clg .4% Condns WB=>MDB",
+               "Adding object Boston Logan IntL Arpt Ann Htg 99.6% Condns DB",
+               "Setting ASHRAE Climate Zone to 5A"
+            ],
+            "step_initial_condition" : "The initial weather file is Boston Logan IntL Arpt and the model has 0 design day objects",
+            "step_result" : "Success",
+            "step_values" : 
+            [
+               {
+                  "name" : "weather_file_name",
+                  "value" : "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests/USA_MA_Boston-Logan.Intl.AP.725090_TMY3.epw"
+               },
+               {
+                  "name" : "climate_zone",
+                  "value" : "Lookup From Stat File"
+               },
+               {
+                  "name" : "set_year",
+                  "value" : 0
+               },
+               {
+                  "name" : "use_upstream_args",
+                  "value" : true
+               },
+               {
+                  "name" : "epw_gsub",
+                  "value" : "Do Nothing"
+               },
+               {
+                  "name" : "reported_climate_zone",
+                  "value" : "5A"
+               }
+            ],
+            "step_warnings" : []
+         }
+      }
+   ],
+   "updated_at" : "20260401T145158Z",
+   "weather_file" : "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests/USA_MA_Boston-Logan.Intl.AP.725090_TMY3.epw"
+}

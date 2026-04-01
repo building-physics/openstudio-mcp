@@ -1,0 +1,19 @@
+{
+  "seed_file": "/runs/measure_66362a554fdd/in.osm",
+  "file_paths": [
+    "/inputs"
+  ],
+  "measure_paths": [
+    "/runs/measure_66362a554fdd/measures"
+  ],
+  "steps": [
+    {
+      "measure_dir_name": "ChangeBuildingLocation",
+      "arguments": {
+        "weather_file_name": "/inputs/USA_MA_Boston-Logan.Intl.AP.725090_TMY3.epw",
+        "climate_zone": "Lookup From Stat File"
+      }
+    }
+  ],
+  "weather_file": "/inputs/USA_MA_Boston-Logan.Intl.AP.725090_TMY3.epw"
+}

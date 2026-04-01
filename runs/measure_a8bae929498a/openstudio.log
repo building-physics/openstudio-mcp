@@ -1,0 +1,19 @@
+[openstudio.measure.OSRunner] <Error> SWIG director method error. NoMethodError: undefined method `setCoefficient8xPOW2TIMESY' for #<OpenStudio::Model::CurveBicubic:0x0000749f3bdeff68 @__swigtype__="_p_openstudio__model__CurveBicubic">
+
+Traceback (most recent call last):
+/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:69:in `block in run'
+/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `each'
+/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `run'
+[openstudio.workflow.OSWorkflow] <Error> Found error in state 'OpenStudioMeasures' with message: 'Runner error: Measure '/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb' reported an error with [SWIG director method error. NoMethodError: undefined method `setCoefficient8xPOW2TIMESY' for #<OpenStudio::Model::CurveBicubic:0x0000749f3bdeff68 @__swigtype__="_p_openstudio__model__CurveBicubic">
+
+Traceback (most recent call last):
+/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:69:in `block in run'
+/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `each'
+/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `run']'
+Failed to run workflow. Last Error:
+  Found error in state 'OpenStudioMeasures' with message: 'Runner error: Measure '/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb' reported an error with [SWIG director method error. NoMethodError: undefined method `setCoefficient8xPOW2TIMESY' for #<OpenStudio::Model::CurveBicubic:0x0000749f3bdeff68 @__swigtype__="_p_openstudio__model__CurveBicubic">
+
+Traceback (most recent call last):
+/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:69:in `block in run'
+/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `each'
+/runs/measure_a8bae929498a/measures/add_supermarket_refrigeration/measure.rb:45:in `run']'

@@ -1,0 +1,1 @@
+"/usr/local/openstudio-3.11.0/bin/openstudio" run -w "/runs/measure_eb4632d82172/run/000_create_typical_building_from_model/create_typical_building_from_model_SR1/in.osw"

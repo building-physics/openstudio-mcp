@@ -1,0 +1,57 @@
+{
+   "completed_at" : "20260401T151508Z",
+   "completed_status" : "Success",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_3cf38e2a34d0/generated_files",
+      "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "A7551717",
+   "measure_paths" : 
+   [
+      "/runs/measure_3cf38e2a34d0/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_3cf38e2a34d0/in.osm",
+   "started_at" : "20260401T151457Z",
+   "steps" : 
+   [
+      {
+         "arguments" : {},
+         "measure_dir_name" : "probe_condenser_api",
+         "result" : 
+         {
+            "completed_at" : "20260401T151504Z",
+            "measure_class_name" : "ProbeCondenserApi",
+            "measure_display_name" : "Probe Condenser Api",
+            "measure_name" : "probe_condenser_api",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "e7947872-b352-4b23-8221-26e4e20e4181",
+            "measure_version_id" : "92305a18-c07a-4cba-93aa-3d25cd64f4d4",
+            "measure_version_modified" : "20260401T151447Z",
+            "measure_xml_checksum" : "359A34E2",
+            "started_at" : "20260401T151504Z",
+            "stderr" : "",
+            "stdout" : "",
+            "step_errors" : [],
+            "step_files" : [],
+            "step_final_condition" : "Found 23 setter methods on RefrigerationCondenserAirCooled",
+            "step_info" : 
+            [
+               "AirCooled condenser setters: setAirInletZone, setCADObjectId, setComment, setCondensatePipingRefrigerantInventory, setCondensateReceiverRefrigerantInventory, setCondenserFanSpeedControlType, setCondenserRefrigerantOperatingChargeInventory, setDisplayName, setDouble, setEndUseSubcategory, setFieldComment, setGBXMLId, setInt, setMinimumFanAirFlowRatio, setName, setParent, setPointer, setQuantity, setRatedEffectiveTotalHeatRejectionRateCurve, setRatedFanPower, setRatedSubcoolingTemperatureDifference, setString, setUnsigned"
+            ],
+            "step_result" : "Success",
+            "step_values" : [],
+            "step_warnings" : []
+         }
+      }
+   ],
+   "updated_at" : "20260401T151508Z"
+}

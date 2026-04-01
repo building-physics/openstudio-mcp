@@ -1,0 +1,13 @@
+[23:05:48.490051 WARN] [openstudio.workflow.OSWorkflow] No valid weather file defined in either the osm or osw.
+[23:05:55.171892 ERROR] [openstudio.measure.OSRunner] SWIG director method error. NoMethodError: undefined method `setCoefficient8xPOW2TIMESY' for #<OpenStudio::Model::CurveBicubic:0x00007e9c4d514ab0 @__swigtype__="_p_openstudio__model__CurveBicubic">
+
+Traceback (most recent call last):
+/runs/measure_61e7f44d8ed5/measures/apply_supermarket_refrigeration/measure.rb:70:in `block in run'
+/runs/measure_61e7f44d8ed5/measures/apply_supermarket_refrigeration/measure.rb:60:in `each'
+/runs/measure_61e7f44d8ed5/measures/apply_supermarket_refrigeration/measure.rb:60:in `run'
+[23:05:55.178050 ERROR] [openstudio.workflow.OSWorkflow] Found error in state 'OpenStudioMeasures' with message: 'Runner error: Measure '/runs/measure_61e7f44d8ed5/measures/apply_supermarket_refrigeration/measure.rb' reported an error with [SWIG director method error. NoMethodError: undefined method `setCoefficient8xPOW2TIMESY' for #<OpenStudio::Model::CurveBicubic:0x00007e9c4d514ab0 @__swigtype__="_p_openstudio__model__CurveBicubic">
+
+Traceback (most recent call last):
+/runs/measure_61e7f44d8ed5/measures/apply_supermarket_refrigeration/measure.rb:70:in `block in run'
+/runs/measure_61e7f44d8ed5/measures/apply_supermarket_refrigeration/measure.rb:60:in `each'
+/runs/measure_61e7f44d8ed5/measures/apply_supermarket_refrigeration/measure.rb:60:in `run']'

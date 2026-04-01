@@ -1,0 +1,5 @@
+[openstudio.standards.CreateTypical] <Error> Could not determine climate zone from measure arguments or model.
+[openstudio.measure.OSRunner] <Error> [openstudio.standards.CreateTypical] Could not determine climate zone from measure arguments or model.
+[openstudio.workflow.OSWorkflow] <Error> Found error in state 'OpenStudioMeasures' with message: 'Measure 'create_typical_building_from_model' reported an error with [[openstudio.standards.CreateTypical] Could not determine climate zone from measure arguments or model.]'
+Failed to run workflow. Last Error:
+  Found error in state 'OpenStudioMeasures' with message: 'Measure 'create_typical_building_from_model' reported an error with [[openstudio.standards.CreateTypical] Could not determine climate zone from measure arguments or model.]'

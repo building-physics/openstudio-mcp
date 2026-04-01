@@ -1,0 +1,19 @@
+{
+  "seed_file": "/runs/measure_e37620531784/in.osm",
+  "file_paths": [
+    "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests"
+  ],
+  "measure_paths": [
+    "/runs/measure_e37620531784/measures"
+  ],
+  "steps": [
+    {
+      "measure_dir_name": "ChangeBuildingLocation",
+      "arguments": {
+        "weather_file_name": "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests/USA_MA_Boston-Logan.Intl.AP.725090_TMY3.epw",
+        "climate_zone": "Lookup From Stat File"
+      }
+    }
+  ],
+  "weather_file": "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests/USA_MA_Boston-Logan.Intl.AP.725090_TMY3.epw"
+}

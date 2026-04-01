@@ -1,0 +1,4 @@
+[22:54:03.377730 WARN] [openstudio.workflow.OSWorkflow] No valid weather file defined in either the osm or osw.
+[22:54:10.147603 ERROR] [openstudio.standards.CreateTypical] Could not determine climate zone from measure arguments or model.
+[22:54:10.154068 ERROR] [openstudio.measure.OSRunner] [openstudio.standards.CreateTypical] Could not determine climate zone from measure arguments or model.
+[22:54:10.161540 ERROR] [openstudio.workflow.OSWorkflow] Found error in state 'OpenStudioMeasures' with message: 'Measure 'create_typical_building_from_model' reported an error with [[openstudio.standards.CreateTypical] Could not determine climate zone from measure arguments or model.]'

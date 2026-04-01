@@ -1,0 +1,14 @@
+[15:17:58.729042 ERROR] [openstudio.measure.OSRunner] SWIG director method error. ArgumentError: wrong # of arguments(2 for 1)
+
+Traceback (most recent call last):
+/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:183:in `setZoneBoundaryTotalInsulatedSurfaceAreaFacingZone'
+/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:183:in `block in run'
+/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:166:in `each'
+/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:166:in `run'
+[15:17:58.734956 ERROR] [openstudio.workflow.OSWorkflow] Found error in state 'OpenStudioMeasures' with message: 'Runner error: Measure '/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb' reported an error with [SWIG director method error. ArgumentError: wrong # of arguments(2 for 1)
+
+Traceback (most recent call last):
+/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:183:in `setZoneBoundaryTotalInsulatedSurfaceAreaFacingZone'
+/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:183:in `block in run'
+/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:166:in `each'
+/runs/measure_24f1ac08c933/measures/apply_supermarket_refrigeration/measure.rb:166:in `run']'

@@ -1,0 +1,70 @@
+{
+   "completed_at" : "20260401T151411Z",
+   "completed_status" : "Fail",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_9dfa8774dfdf/generated_files",
+      "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "65691366",
+   "measure_paths" : 
+   [
+      "/runs/measure_9dfa8774dfdf/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_9dfa8774dfdf/in.osm",
+   "started_at" : "20260401T151404Z",
+   "steps" : 
+   [
+      {
+         "arguments" : 
+         {
+            "json_path" : "/runs/exports/SuperMarket_advanced_refrigeration_system.json"
+         },
+         "measure_dir_name" : "apply_supermarket_refrigeration",
+         "result" : 
+         {
+            "completed_at" : "20260401T151411Z",
+            "measure_class_name" : "ApplySupermarketRefrigeration",
+            "measure_display_name" : "Apply Supermarket Refrigeration",
+            "measure_name" : "apply_supermarket_refrigeration",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "dff5cadd-77ee-4623-8cb3-d96f21c2fd9f",
+            "measure_version_id" : "6f33bad1-b597-421b-ba1c-7fef90688194",
+            "measure_version_modified" : "20260401T151353Z",
+            "measure_xml_checksum" : "359A34E2",
+            "started_at" : "20260401T151410Z",
+            "stderr" : "",
+            "stdout" : "[openstudio.measure.OSRunner] <Error> SWIG director method error. NoMethodError: undefined method `setMinimumCondensingTemperature' for #<OpenStudio::Model::RefrigerationCondenserAirCooled:0x000070513d897f20 @__swigtype__=\"_p_openstudio__model__RefrigerationCondenserAirCooled\">\n\nTraceback (most recent call last):\n/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:100:in `block in run'\n/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:96:in `each'\n/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:96:in `run'\n",
+            "step_errors" : 
+            [
+               "SWIG director method error. NoMethodError: undefined method `setMinimumCondensingTemperature' for #<OpenStudio::Model::RefrigerationCondenserAirCooled:0x000070513d897f20 @__swigtype__=\"_p_openstudio__model__RefrigerationCondenserAirCooled\">\n\nTraceback (most recent call last):\n/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:100:in `block in run'\n/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:96:in `each'\n/runs/measure_9dfa8774dfdf/measures/apply_supermarket_refrigeration/measure.rb:96:in `run'"
+            ],
+            "step_files" : [],
+            "step_info" : 
+            [
+               "Created 9 curves",
+               "Created 135 compressors"
+            ],
+            "step_initial_condition" : "Loading 201 refrigeration objects",
+            "step_result" : "Fail",
+            "step_values" : 
+            [
+               {
+                  "name" : "json_path",
+                  "value" : "/runs/exports/SuperMarket_advanced_refrigeration_system.json"
+               }
+            ],
+            "step_warnings" : []
+         }
+      }
+   ],
+   "updated_at" : "20260401T151411Z"
+}

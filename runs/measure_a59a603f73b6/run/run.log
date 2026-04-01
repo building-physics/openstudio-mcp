@@ -1,0 +1,14 @@
+[22:44:33.822241 WARN] [openstudio.measure.OSRunner] Zone not found: MainSales
+[22:44:33.822843 WARN] [openstudio.measure.OSRunner] Zone not found: ActiveStorage
+[22:44:33.824638 ERROR] [openstudio.measure.OSRunner] SWIG director method error. NoMethodError: undefined method `setCoefficient10yPOW3' for #<OpenStudio::Model::CurveBicubic:0x0000799f0bde3478 @__swigtype__="_p_openstudio__model__CurveBicubic">
+
+Traceback (most recent call last):
+/runs/measure_a59a603f73b6/measures/add_supermarket_refrigeration/measure.rb:71:in `block in run'
+/runs/measure_a59a603f73b6/measures/add_supermarket_refrigeration/measure.rb:45:in `each'
+/runs/measure_a59a603f73b6/measures/add_supermarket_refrigeration/measure.rb:45:in `run'
+[22:44:33.829636 ERROR] [openstudio.workflow.OSWorkflow] Found error in state 'OpenStudioMeasures' with message: 'Runner error: Measure '/runs/measure_a59a603f73b6/measures/add_supermarket_refrigeration/measure.rb' reported an error with [SWIG director method error. NoMethodError: undefined method `setCoefficient10yPOW3' for #<OpenStudio::Model::CurveBicubic:0x0000799f0bde3478 @__swigtype__="_p_openstudio__model__CurveBicubic">
+
+Traceback (most recent call last):
+/runs/measure_a59a603f73b6/measures/add_supermarket_refrigeration/measure.rb:71:in `block in run'
+/runs/measure_a59a603f73b6/measures/add_supermarket_refrigeration/measure.rb:45:in `each'
+/runs/measure_a59a603f73b6/measures/add_supermarket_refrigeration/measure.rb:45:in `run']'

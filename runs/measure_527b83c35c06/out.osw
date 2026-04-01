@@ -1,0 +1,58 @@
+{
+   "completed_at" : "20260401T151646Z",
+   "completed_status" : "Success",
+   "current_step" : 1,
+   "file_paths" : 
+   [
+      "/runs/measure_527b83c35c06/generated_files",
+      "/runs/measure_66362a554fdd/measures/ChangeBuildingLocation/tests",
+      "./files",
+      "./weather",
+      "../../files",
+      "../../weather",
+      "./"
+   ],
+   "hash" : "63C23F4B",
+   "measure_paths" : 
+   [
+      "/runs/measure_527b83c35c06/measures"
+   ],
+   "run_options" : null,
+   "seed_file" : "/runs/measure_527b83c35c06/in.osm",
+   "started_at" : "20260401T151636Z",
+   "steps" : 
+   [
+      {
+         "arguments" : {},
+         "measure_dir_name" : "probe_condenser_api",
+         "result" : 
+         {
+            "completed_at" : "20260401T151641Z",
+            "measure_class_name" : "ProbeCondenserApi",
+            "measure_display_name" : "Probe Condenser Api",
+            "measure_name" : "probe_condenser_api",
+            "measure_taxonomy" : "Whole Building.Space Types",
+            "measure_type" : "ModelMeasure",
+            "measure_uid" : "e7947872-b352-4b23-8221-26e4e20e4181",
+            "measure_version_id" : "f787ee92-455e-49d0-b349-687182ae4b86",
+            "measure_version_modified" : "20260401T151613Z",
+            "measure_xml_checksum" : "359A34E2",
+            "started_at" : "20260401T151641Z",
+            "stderr" : "",
+            "stdout" : "",
+            "step_errors" : [],
+            "step_files" : [],
+            "step_final_condition" : "Probed Case (67) and WalkIn (53) setter methods",
+            "step_info" : 
+            [
+               "Case setters: setAntiSweatHeaterControlType, setAvailabilitySchedule, setAverageRefrigerantChargeInventory, setCADObjectId, setCaseAntiSweatHeaterPowerperDoor, setCaseAntiSweatHeaterPowerperUnitLength, setCaseCreditFractionSchedule, setCaseDefrostDripDownSchedule, setCaseDefrostPowerperDoor, setCaseDefrostPowerperUnitLength, setCaseDefrostSchedule, setCaseDefrostType, setCaseHeight, setCaseLength, setCaseLightingSchedule, setCaseOperatingTemperature, setComment, setDefrost1StartTime, setDefrost2StartTime, setDefrost3StartTime, setDefrost4StartTime, setDefrost5StartTime, setDefrost6StartTime, setDefrost7StartTime, setDefrost8StartTime, setDefrostEnergyCorrectionCurve, setDefrostEnergyCorrectionCurveType, setDesignEvaporatorTemperatureorBrineInletTemperature, setDisplayName, setDouble, setDripDownTime, setDurationofDefrostCycle, setFieldComment, setFractionofAntiSweatHeaterEnergytoCase, setFractionofLightingEnergytoCase, setGBXMLId, setHumidityatZeroAntiSweatHeaterEnergy, setInstalledCaseLightingPowerperDoor, setInstalledCaseLightingPowerperUnitLength, setInt, setLatentCaseCreditCurve, setLatentCaseCreditCurveType, setMinimumAntiSweatHeaterPowerperDoor, setMinimumAntiSweatHeaterPowerperUnitLength, setName, setNumberOfDoors, setOperatingCaseFanPowerperDoor, setOperatingCaseFanPowerperUnitLength, setParent, setPointer, setQuantity, setRatedAmbientRelativeHumidity, setRatedAmbientTemperature, setRatedLatentHeatRatio, setRatedRuntimeFraction, setRatedTotalCoolingCapacityperDoor, setRatedTotalCoolingCapacityperUnitLength, setRefrigeratedCaseRestockingSchedule, setStandardCaseFanPowerperDoor, setStandardCaseFanPowerperUnitLength, setStandardCaseLightingPowerperDoor, setStandardCaseLightingPowerperUnitLength, setString, setThermalZone, setUnderCaseHVACReturnAirFraction, setUnitType, setUnsigned",
+               "WalkIn setters: setAvailabilitySchedule, setAverageRefrigerantChargeInventory, setCADObjectId, setComment, setDefrost1StartTime, setDefrost2StartTime, setDefrost3StartTime, setDefrost4StartTime, setDefrost5StartTime, setDefrost6StartTime, setDefrost7StartTime, setDefrost8StartTime, setDefrostControlType, setDefrostDripDownSchedule, setDefrostPower, setDefrostSchedule, setDefrostType, setDisplayName, setDouble, setDripDownTime, setDurationofDefrostCycle, setFieldComment, setGBXMLId, setHeatingPowerSchedule, setInsulatedFloorSurfaceArea, setInsulatedFloorUValue, setInt, setLightingSchedule, setName, setOperatingTemperature, setParent, setPointer, setQuantity, setRatedCirculationFanPower, setRatedCoilCoolingCapacity, setRatedCoolingCoilFanPower, setRatedCoolingSourceTemperature, setRatedTotalHeatingPower, setRatedTotalLightingPower, setRestockingSchedule, setString, setTemperatureTerminationDefrostFractiontoIce, setUnsigned, setZoneBoundaryAreaofGlassReachInDoorsFacingZone, setZoneBoundaryAreaofStockingDoorsFacingZone, setZoneBoundaryGlassReachInDoorUValueFacingZone, setZoneBoundaryHeightofGlassReachInDoorsFacingZone, setZoneBoundaryHeightofStockingDoorsFacingZone, setZoneBoundaryInsulatedSurfaceUValueFacingZone, setZoneBoundaryStockingDoorOpeningScheduleFacingZone, setZoneBoundaryStockingDoorUValueFacingZone, setZoneBoundaryThermalZone, setZoneBoundaryTotalInsulatedSurfaceAreaFacingZone"
+            ],
+            "step_result" : "Success",
+            "step_values" : [],
+            "step_warnings" : []
+         }
+      }
+   ],
+   "updated_at" : "20260401T151646Z"
+}
